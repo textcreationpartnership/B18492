@@ -1,0 +1,754 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The title and [i]nterest of Jeremy Elwes Esq. and other creditors of VVilliam Courten, to several mannors and lands within the counties of Worcester and Gloucester, asserted against the issue in taile of the said William Courten, and the trustees at Drury-house : faithfully stated, and printed for the satisfaction of all persons concerned : with some arguments raised thereupon, objections answered, and ten queries left to further resolves, together with the several proceedings and transactions therein duly set forth / by George Carevv ...</title>
+            <author>Carew, George, Esq.</author>
+         </titleStmt>
+         <extent>Approx. 97KB of XML-encoded text transcribed from 12 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B18492</idno><idno type="EEBO-CITATION">18202429</idno>
+  <idno type="VID">206438</idno>
+  <idno type="EEBO-PROQUEST">2240882213</idno>
+  
+            <idno type="STC">Wing C553</idno>
+            <idno type="OCLC">18202429</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B18492)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 206438)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1629:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The title and [i]nterest of Jeremy Elwes Esq. and other creditors of VVilliam Courten, to several mannors and lands within the counties of Worcester and Gloucester, asserted against the issue in taile of the said William Courten, and the trustees at Drury-house : faithfully stated, and printed for the satisfaction of all persons concerned : with some arguments raised thereupon, objections answered, and ten queries left to further resolves, together with the several proceedings and transactions therein duly set forth / by George Carevv ...</title>
+                  <author>Carew, George, Esq.</author>
+               </titleStmt>
+               <extent>[4], 16, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London printed :</pubPlace>
+                  <date>1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Courten, William, d. 1655 --  Estate --  Trials, litigation, etc.</term>
+               <term type="topical_term">Entail --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Olivia Bottum </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:206438:1"/>
+            <p>THE TITLE AND INTEREST OF JEREMY ELWES Esq And other Creditors of VVILLIAM COURTEN, to several Mannors and Lands within the Counties of <hi>Worcester</hi> and <hi>Gloucester,</hi> Asserted against The Issue in Taile of the said WILLIAM COURTEN, and the TRUSTEES at <hi>Drury-house.</hi>
+            </p>
+            <p>Faithfully stated, and Printed for the satisfaction of all Persons concerned.</p>
+            <p>With some Arguments raised thereupon: Objections answered: and ten Queries left to further Resolves,</p>
+            <p>Together with the several Proceedings and Trans<g ref="char:EOLhyphen"/>actions therein duly set forth.</p>
+            <p>By GEORGE CAREVV of <hi>Greyes-Inn, Gent.</hi>
+            </p>
+            <q>
+               <hi>Veritas non quaerit Angulos.</hi>
+            </q>
+            <p>
+               <hi>London,</hi> Printed in the Year, 1659.</p>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:206438:2"/>
+            <pb facs="tcp:206438:2"/>
+            <head>The Preface.</head>
+            <p>TO take away the false Reports and Aspersions of the World, which some People through ignorance have cast upon me and others that were intrusted in the prosecution of this Business, I am ne<g ref="char:EOLhyphen"/>cessitated to Publish this Case in Vindication of them and my self. I was desired (by divers who found themselves agreived) to Print it in the year Mr. <hi>Courten</hi> dyed, but I did forbear, upon hopes there might be a right un<g ref="char:EOLhyphen"/>derstanding in three years time, and some satisfaction given to just pretenses: but since the Remedy is now grown as grievous as the Disease, and we are fallen into such an Age, that Debitors and Oppressors are become our Judges; that Lawes and Statutes, made for the redresse of mischiefs in a Common-wealth, are misconstrued, with forc't Interpretations, and applyed to such purposes, that mens Rights and Properties are become uncertain; I can do no less but appeal to all good people in Authority that they may take it in<g ref="char:EOLhyphen"/>to their considerations, and be Judges of this matter: If there be any thing due in this Case to the Common-Wealth, it is reason there should be a Re<g ref="char:EOLhyphen"/>compense made, when a just occasion is shown; if there be any thing due to Mr. <hi>Courtens</hi> Heir, upon any Material Cause or Consideration, it is justice there should be a Satisfaction given when that Right appears; if there be any thing due to the Creditors upon valuable Considerations, then ought there, in all Equity, good Conscience, and Honour, to be a Payment made out of the Land lyable to the Debt. I desire no part of Mr. <hi>Courtens</hi> Estate, but upon good and valuable Consideration, and waive the great Expence and Trouble I have undergone in acquiring my satisfaction out of his Lands: I expect no other reward for assisting the Creditors, but my own quiet and discharge. It is possible some may grudge that I have secured my own Debt, and left them to contend for their Proportions. Wherein I am obliged, I shall never desert the Interest of others, nor stifle my own Reason to their disadvantage upon hopes of Gain, if there be any Reflections upon those that have injuriously obstructed the payment of Creditors, let them quit them<g ref="char:EOLhyphen"/>selves and their Reputations; I shall be true to my own Resolutions, and at this time speak modestly; and write nothing but what I will justifie in every particular to be the Truth, without favour, fear, or affection of any person, and so leave the Consequence thereof to the Justice of the Cause.</p>
+            <closer>
+               <signed>Geo. Carew.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:206438:3"/>
+            <pb n="1" facs="tcp:206438:3"/>
+            <head>THE CASE Between the Creditors of <hi>William Courten,</hi> and Sir <hi>Edward Littleton,</hi> AND The Heires in Tayl of <hi>William Courten</hi> and the Common-wealth.</head>
+            <p>
+               <seg rend="decorInit">S</seg>IR <hi>William Courten</hi> Knight an eminent Merchant of <hi>London,</hi>
+               <note place="margin">
+                  <hi>8.</hi> Car. Reg.</note> be<g ref="char:EOLhyphen"/>ing seised in his demesne as of Fee, of and in the Mannors of <hi>Pyrton, Evesham, Annton▪ Stoke</hi> alias <hi>Severn Stoke, Wyerpidle, Stone, Shenstone, Bengworth, Over Swell,</hi> and several other Mannors and lands within the Counties of <hi>Worcester</hi> and <hi>Gloucester,</hi> did by his Indenture bearing date <hi>25. Febr. 1632.</hi> bargain and sell the said Lands <hi>(inter alia)</hi> unto <hi>Samuel Bonnel</hi> for a year, which were then worth <hi>4000 l. per annum.</hi>
+            </p>
+            <p>Sir <hi>William Courten</hi> and <hi>William Courten</hi> his son by their Indenture bearing date the first of <hi>March, 1632.</hi> made between the said Sir <hi>William</hi> and <hi>William</hi> his son,<note place="margin">
+                  <hi>Samuel Bonnell</hi> attorned ac<g ref="char:EOLhyphen"/>cording to the form of the Statute for transferring of Uses into pos<g ref="char:EOLhyphen"/>session, made 27. <hi>Hen.</hi> 8. <hi>Vide</hi> the Of<g ref="char:EOLhyphen"/>fice found and returned, 12. <hi>Car.</hi>
+               </note> of the one part, and the Earl of <hi>Bridgewater,</hi> Sir <hi>Thomas Tirringham,</hi> Sir <hi>Bevis Thelwell</hi> and <hi>Edward Savage</hi> of the other part, in consideration of a Marriage to be solemnized between <hi>William Courten</hi> and the Lady <hi>Katharine</hi> daughter to the Earl of <hi>Bridgwater,</hi> and for her Iointure did grant, enfeoffe, and confirm, to the Earl of <hi>Bridgwater, Terringham, Thelwel,</hi> and <hi>Savage,</hi> and their heirs, the premises with the appurtenances, to the uses following, <hi>viz. Pyrton, Annton</hi> and <hi>Evesham</hi> to <hi>William Courten</hi> the son for life, after to the use of the Lady <hi>Katherine</hi> for life in recompense of Dower, and after to the heires males of the body of <hi>William,</hi> for want of such to the heires of <hi>William,</hi> for want of such to the right Heires of Sir <hi>William</hi> for ever, The other Mannnors and Lands in the same grant, were to the use of <hi>William</hi> for life, the remainder to his heires in tayle, <hi>&amp;c.</hi>
+            </p>
+            <p>Sir <hi>William Courten</hi> being in great trading, and having a vast credit,<note place="margin">Many of the Debts are oweing still upon other se<g ref="char:EOLhyphen"/>curity which is become inva<g ref="char:EOLhyphen"/>lid.</note> and having bor<g ref="char:EOLhyphen"/>rowed several great sums of money upon his own and his son <hi>VVilliam Courtens</hi> bond in the year <hi>1636.</hi> made his last Will and Testament in writing, and gave his son <hi>Wil<g ref="char:EOLhyphen"/>liam</hi> all his Lands and Personal Estate, made him sole Executor, and dyed <hi>80000 l.</hi> in debt, and upon his death-bed charged him to pay his debts, and preserve the credit and esteem the World had of him. <hi>William</hi> his son in obedience thereunto made Probate of the said Will, and took upon him the execution thereof.</p>
+            <p>
+               <hi>William Courten</hi> levyed a Fine <hi>Sur conusans de droit come ceo, &amp;c.</hi>
+               <note place="margin">
+                  <hi>Easter</hi> 12. <hi>Car. Laxstone</hi> then sold to the Earl of <hi>King<g ref="char:EOLhyphen"/>stone.</hi>
+               </note> to Sir <hi>Edward Lit<g ref="char:EOLhyphen"/>tleton Barronet,</hi> his brother in Law, and <hi>Thomas Coppin</hi> of the Mannor of <hi>Over Swell,</hi> with the appurtenances, in the County of <hi>Gloucester,</hi> and of the Mannors of <hi>Severn Stoke, Wyerpidle, Stone, Shenstone, Bengeworth</hi> and <hi>Hooe,</hi> in the County of <hi>Worcester,</hi> and of <hi>Laxstone</hi> in the County of <hi>Nottingham, 1636.</hi>
+            </p>
+            <p>
+               <hi>William Courten</hi> by Indenture then for the consideration of <hi>12000 l.</hi> did grant to <hi>Da<g ref="char:EOLhyphen"/>niel Harvey</hi> Merchant his Executors and Administrators, the Mannor of <hi>Severn Stoke,</hi>
+               <note place="margin">
+                  <hi>Harvey</hi> enters upon default of payment, and <hi>Courtens</hi> confirmation after the Mort<g ref="char:EOLhyphen"/>gage.</note> with other Farmes, and Demesne Lands in the County of <hi>Worcester</hi> for the Term of <hi>99</hi> years without impeachment of Wast at a pepper corn rent, under a Proviso or condi<g ref="char:EOLhyphen"/>tion of redemption, to be voyd upon payment of the money with interest upon a day cer<g ref="char:EOLhyphen"/>tain at the end of the first year.</p>
+            <p>
+               <hi>William Courten</hi> by Indenture dated the <hi>12.</hi> of <hi>August 1636.</hi> for the consideration of <hi>5000 l.</hi> Did grant to <hi>John Rushout</hi> Merchant, his Excecutors and administrators,<note place="margin">
+                  <hi>Rushout</hi> enters 1646. upon default of payment of principal and all the inter<g ref="char:EOLhyphen"/>est, from the time of the grant.</note> the Mannors of <hi>Over Swel, Bengeworth, Wyerpidle, Stone, Shenstone</hi> and <hi>Hooe,</hi> with their appurtenances, in the Counties of <hi>VVorcester</hi> and <hi>Gloucester</hi> for the Term of <hi>99.</hi> years, without impeachment of Wast, At a pepper corn rent, under a proviso and condi<g ref="char:EOLhyphen"/>tion of redemption, to be void upon payment of the money with interest upon a day cer<g ref="char:EOLhyphen"/>tain at the end of the first year.</p>
+            <pb n="2" facs="tcp:206438:4"/>
+            <p>
+               <note place="margin">14. <hi>Car. Reg.</hi> 5000 l. was onely paid in hand, the other secured by the Land.</note>
+               <hi>Giles Carter,</hi> by his Deed of Bargain and Sale, bearing date the <hi>10th.</hi> of <hi>April, 1638.</hi> Inrolled in Chancery, for the consideration of <hi>10000 l.</hi> granted the Mannor of <hi>Lower Swell,</hi> with the appurtenances to <hi>VVilliam Courten</hi> and his heires for ever, with a Fine and Covenants, <hi>&amp;c.</hi>
+            </p>
+            <p>
+               <note place="margin">
+                  <hi>Carter</hi> entred in 1647 upon default of pay<g ref="char:EOLhyphen"/>ment, and then there was due to him 6300 l. afterwards the profits paid not the Inter<g ref="char:EOLhyphen"/>est.</note>
+               <hi>Giles Carter</hi> by his Indenture tripartite, bearing date some short time (before the said Conveyance of the Fee-simple) made between him the said <hi>Giles Carter</hi> of the first part <hi>Thomas More</hi> and <hi>Anthony Hodges</hi> of the second part, and <hi>VVilliam Courten</hi> of the third part, did grant the said Mannor of <hi>Lower Swell</hi> to the said <hi>More</hi> and <hi>Hodges</hi> for <hi>99.</hi> years under a proviso and condition, to be void if <hi>Courten</hi> did pay <hi>2600 l.</hi> upon the <hi>16th.</hi> of <hi>Febr.</hi> next following, and <hi>2600 l.</hi> more on the <hi>18th.</hi> of <hi>March</hi> next after, with a Cove<g ref="char:EOLhyphen"/>nant that upon default of payment, Then the Lease should be assigned to <hi>Carter</hi> or to whom he should appoint, in the mean time <hi>Courten,</hi> to receive the profits, which were of smal value all the time of the Warrs.</p>
+            <p>
+               <note place="margin">
+                  <hi>Coppin</hi> enters 1646 upon de<g ref="char:EOLunhyphen"/>fault of pay<g ref="char:EOLunhyphen"/>ment, and de<g ref="char:EOLhyphen"/>manded all the Interest,</note>
+               <hi>William Courten</hi> by Indenture dated the <hi>30th.</hi> of <hi>July 1640.</hi> for the consideration of <hi>1700 l.</hi> Did grant to <hi>Thomas Coppin</hi> the Mannor of <hi>Evesham,</hi> with the appurtenances for <hi>20.</hi> years, under a Proviso, to be void upon payment of <hi>1715 l.</hi> upon the <hi>25th.</hi> of <hi>August</hi> next.</p>
+            <p>
+               <note place="margin">
+                  <hi>Coppin</hi> enters 1646 upon de<g ref="char:EOLhyphen"/>fault in the right of <hi>Cur<g ref="char:EOLhyphen"/>tius,</hi> and de<g ref="char:EOLhyphen"/>manded ar<g ref="char:EOLhyphen"/>reares from the time of the Lease.</note>
+               <hi>William Courten</hi> by Indenture dated the <hi>18th.</hi> of <hi>July 1640.</hi> for the consideration of <hi>300 l.</hi> Did grant to <hi>Allen Edmundson,</hi> the Mannor of <hi>Annton</hi> to hold for <hi>60.</hi> years, if <hi>William Curtius</hi> should so long live, with a Covenant for enjoying the premises, by <hi>Courten</hi> so long as he should pay <hi>Curtius 50 l. per annum</hi> during his life.</p>
+            <p>
+               <hi>William Courten</hi> by Indenture dated the first of <hi>August 1640</hi> for the consideration of <hi>1300 l.</hi> grants to <hi>Thomas Coppin</hi> and <hi>William Curtius,</hi>
+               <note place="margin">
+                  <hi>Coppin</hi> enters 1646. upon default of pay<g ref="char:EOLhyphen"/>ment, and de<g ref="char:EOLhyphen"/>manded full Interest from the time of the Lease.</note> the Mannor of <hi>Pyrton</hi> to hold for <hi>16.</hi> yeares if <hi>Courten</hi> should so long live, with a condition of Redemption, to be voyd upon payment of <hi>1307 l. 11 s. 8 d.</hi> the third day of <hi>September</hi> next.</p>
+            <p>
+               <note place="margin">Became insol<g ref="char:EOLhyphen"/>vent by great losses at Sea.</note>
+               <hi>William Courten,</hi> having traded and used Merchandizing <hi>6.</hi> years together after his Fathers death became very much indebted, and had prevailed with the Earl of <hi>Bridg<g ref="char:EOLhyphen"/>water</hi> and Sir <hi>Edward Littleton</hi> to become bound with him in that time for <hi>100000 l.</hi> principal money and upwards, and besides his own debts upon single and private Contracts for Wares and Shipping, then oweing, amounting to <hi>90000 l.</hi> more, hav<g ref="char:EOLhyphen"/>ing nothing left to support his credit, but the equitable power of Redemption in the Mortgaged Premises,<note place="margin">By the bar<g ref="char:EOLhyphen"/>gain and sale (admit it good) A defei<g ref="char:EOLhyphen"/>sible Estate in Fee simple passed to Sir <hi>Edward Little<g ref="char:EOLhyphen"/>ton,</hi> of <hi>Pyrton, Annton</hi> and <hi>Evesham</hi> des<g ref="char:EOLhyphen"/>cendible to his heires deter<g ref="char:EOLhyphen"/>minable upon the death of <hi>William Cour<g ref="char:EOLhyphen"/>ten,</hi> the Te<g ref="char:EOLhyphen"/>nant in Tayl. No Schedule of Debts, was annexed to the Deed.</note> Did by his Deed of Bargain and Sale, bearing date <hi>26. April 1642</hi> for the consideration of twenty shillings, and to save Sir <hi>Edward Littleton</hi> and his Heires <hi>&amp;c.</hi> harmless and indempnified, for and by reason of such Debts as he stood bound, or should stand bound with the said <hi>Courten,</hi> Granted, Bargained, and Sold, the said Mannors of <hi>Pyrton, Evesham, Annton, Stoke,</hi> alias <hi>Severn Stoke, Over-Swell,</hi> and <hi>Lower-Swell,</hi> with their Appurtenances; and all other his Mannors and Lands whatsoever, within the Counties of <hi>Worcester</hi> and <hi>Gloucester,</hi> to the said Sir <hi>Edward Littleton</hi> and his Heires for ever, Vnder a Proviso and condition, that if the said <hi>William Courten,</hi> his Heires, Executors or Administrators, did within the space of <hi>27.</hi> Monethes, next after the date of the said Indenture, pay all such debts and sums of money as the said Sir <hi>Edward Littleton</hi> then stood bound for, or should stand bound for, and with the said <hi>Courten,</hi> and save Sir <hi>Edward Littleton</hi> and his Heires <hi>&amp;c.</hi> harmlesse and indemnified, for and concerning the same; That then the said In<g ref="char:EOLhyphen"/>denture to be voyd, otherwise it should be lawful for Sir <hi>Edward Littleton, &amp;c.</hi> to sell, and pay such Persons as he should think fit.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1642"/>
+               <hi>William Courten</hi> did by his Indenture dated the <hi>20th.</hi> of <hi>May 1642,</hi> in consideration of Service done, and Wages due to <hi>Humphrey Baker,</hi> grant the house in <hi>Evesham</hi> cal<g ref="char:EOLhyphen"/>led che <hi>Crown,</hi> worth <hi>18 l. <hi>per an.</hi>
+               </hi> (parcel of the Mannor mentioned to be granted to Sir <hi>Edward Littleton</hi>) to the said <hi>Humphrey</hi> for term of his life.</p>
+            <p>
+               <hi>William Courten</hi> (after the Bargain, and Sale, to <hi>Littleton</hi> aforesaid,) for the con<g ref="char:EOLhyphen"/>sideration of <hi>500 l.</hi> paid by Mr. <hi>Daniel Harvey,</hi> to him in the presence of Sir <hi>Edward
+<pb n="3" facs="tcp:206438:4"/> Littleton</hi> did by his Deed of Bargain and Sale,<note place="margin">Sir <hi>Edward Littleton</hi> sub<g ref="char:EOLhyphen"/>scribed his name as a wit<g ref="char:EOLhyphen"/>ness to Mr. <hi>Harveys</hi> deed.</note> bearing date the <hi>23d</hi> of <hi>June, 1642.</hi> grant and confirm the Mannor of <hi>Severn-Stoke</hi> to <hi>William Harvey</hi> and others and their heirs for ever, and kept the possession of the other Mannors and Lands until <hi>March, 1647.</hi> received the Rents, let the Lands, absented himselfe from <hi>London,</hi> suffered himself to be Outlaw<g ref="char:EOLhyphen"/>ed, failed in payment of interest due upon bonds, and became Bankrupt in <hi>September, 1643.</hi>
+            </p>
+            <p>Sir <hi>Edward Littleton</hi> concealing the premisses and his own Delinquency, being prose<g ref="char:EOLhyphen"/>cuted at Law by <hi>George Carew</hi> for debts due upon bond from Mr. <hi>Courten</hi> to <hi>Edmund Hamond, William Walton,</hi> Esq and <hi>Mary Crook</hi> Widow, amounting to <hi>3000 l.</hi> and upwards, which were assigned to Mr. <hi>Carew</hi> in right of Legacies given to <hi>Susan Walton</hi> his Wife: The said Sir <hi>Edward Littleton</hi> did by his Indenture dated the first of <hi>Novem<g ref="char:EOLhyphen"/>ber, 1649.</hi> in consideration he stood bound for the said money; and for payment and satis<g ref="char:EOLhyphen"/>faction thereof, grant to <hi>George Carew</hi> the Mannors of <hi>Pyrton</hi> and <hi>Annton</hi> for the terme of <hi>99</hi> yeares, under a proviso and condition to be voyd upon payment of the said debt and damages.</p>
+            <p>The Executors of Sir <hi>James Cambel,</hi> and some other Creditors of <hi>William Courten,</hi>
+               <note place="margin">The Commis<g ref="char:EOLhyphen"/>sion was many years obstruct<g ref="char:EOLhyphen"/>ed by the Lady <hi>Katherine.</hi> Lords Com<g ref="char:EOLhyphen"/>missioners no<g ref="char:EOLhyphen"/>minated <hi>Iames Winstanly, Tho: Bayles,</hi> and en<g ref="char:EOLhyphen"/>gaged them to execute it.</note> exhibited their Petition to the Commissioners of the great Seale of <hi>England,</hi> and obtain<g ref="char:EOLhyphen"/>ed a Commission upon the Statutes made concerning Bankrupts, dated <hi>Feb. 19. 1649.</hi> directed to <hi>James Winstanley, George Cotton, Thomas Bayls,</hi> Esquires. <hi>Richard Norton, Anthony Boys, Gervas Byliald,</hi> and <hi>Thomas Lusher,</hi> Gent. giving power to them, or the major part of them to execute the same; and in prosecution of the said Commission, upon due examination of witnesses before them taken upon oath, They found and decla<g ref="char:EOLhyphen"/>red the said <hi>William Courten</hi> to become Bankrupt, in <hi>September 1643.</hi> to all intents and purposes within the said Statutes.</p>
+            <p>
+               <hi>James Winstanley, George Cotten, Thomas Bayles;</hi> and the other Commissioners, re<g ref="char:EOLhyphen"/>citing the Commission, <hi>Courtens</hi> trading and his debts,<note place="margin">Inrolled in the Court of com<g ref="char:EOLhyphen"/>mon Pleas.</note> and that they found him seised in Fee of the Mannor of <hi>Lower-Swell,</hi> since he became Bankrupt, <hi>&amp;c.</hi> Did by their deed of bargain and sale, bearing date <hi>11th.</hi> of <hi>September, 1650.</hi> in consideration of the Co<g ref="char:EOLhyphen"/>venants in the said Deed contained, grant and convey the Mannor of <hi>Lower-Swell,</hi> with the appurtenances to Sir <hi>Thomas Abdy, James Cambel,</hi> and Dame <hi>Rachel Cambel</hi> and their heirs for ever, in trust for the Creditors that sought reliefe according to the form of the Statutes.</p>
+            <p>
+               <hi>James Winstanley, George Cotton,</hi> and the other Commissioners, re<g ref="char:EOLhyphen"/>citing also their Commission, <hi>Courtens</hi> trading and merchandizing, that he became indebted, and lya<g ref="char:EOLhyphen"/>ble to the Statutes; and that they found since he became Bankrupt, that he was seised in his demeasne as of Fee-simple, or some other estate of inheritance to him and his heirs for ever (amongst other lands) of and in the Mannors or Lordships of <hi>Pyrton, Evisham,</hi>
+               <note place="margin">Inrolled in the Court of com<g ref="char:EOLhyphen"/>mom Pleas.</note>
+               <hi>Annton,</hi> and <hi>Stoke, alias Severnstoke</hi> in the County of <hi>Worcester,</hi> did by their Deed of bargain and sale bearing date, <hi>August 21. 1651.</hi> in consideration of the Crvenants in the said Deed contained, grant and convey the said Mannors of <hi>Pyrton, Evisham, Annton,</hi> and <hi>Stoke,</hi> with their appurtenances to <hi>John Pettyward</hi> and <hi>Thomas Birkhead,</hi> and their heires for ever in trust for the Creditors that sought relife, <hi>&amp;c.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1651"/> The Commissioners in further Execution of the said Commission reciting the premis<g ref="char:EOLhyphen"/>ses and their proceedings, the value and appraisement of their estate and interest in the said Mannors and Lands by men of skill and judgement to be estimated at <hi>20000 l.</hi> and then reciting the debts proved upon oath before them by the severall Creditors, who con<g ref="char:EOLhyphen"/>tributed towards the prosecution of the same, made a deed of Dividend (amongst other things) of the said money to be raised by sale of the said Mannors and Lands, and rated it at <hi>6 s. 8 d.</hi> in the pound, and so excluded other creditors that paid not in their contributi<g ref="char:EOLhyphen"/>on before the Divident.</p>
+            <p>Sir <hi>Thomas Abdy, James Cambel,</hi> Dame <hi>Rachel Cambel, John Pettyward,</hi> and <hi>Tho<g ref="char:EOLhyphen"/>mas Birkhead</hi> exhibited their bills in Chancery against <hi>Giles Carter,</hi>
+               <note place="margin">Dyed at the Lady <hi>Frances Hobard's</hi> in <hi>Norwich,</hi> 1642.</note> Sir <hi>Edward Little<g ref="char:EOLhyphen"/>ton, Thomas Coppin, George Carew,</hi> and the Tenants in possession of the said lands to discover the truth of all and singular the premisses, <hi>&amp;c.</hi> The Lady <hi>Katherine</hi> dyes, and left two children, a sonne and daughter within age, named <hi>William,</hi> and <hi>Ka<g ref="char:EOLhyphen"/>therine.</hi>
+            </p>
+            <pb n="4" facs="tcp:206438:5"/>
+            <p>
+               <note place="margin">The damnifi<g ref="char:EOLhyphen"/>cation of Sir <hi>Edw: Littleton</hi> appeared af<g ref="char:EOLhyphen"/>terwards to be onely 130 l. upon full evi<g ref="char:EOLhyphen"/>dence &amp; hear<g ref="char:EOLhyphen"/>ing before the Committee for removing of Obstructi<g ref="char:EOLhyphen"/>ons.</note>Sir <hi>Edward Littleton</hi> by his Answer in Chancery, <hi>March 8. 1651.</hi> to the bill of <hi>John Pettyward</hi> and others, sets forth that he was bound to severall persons for <hi>Courtens</hi> debt, and that he was sued to Outlaries, and that he had paid and secured out of his own estate for <hi>Courtens</hi> debt the sum of <hi>6000 l.</hi> or thereabouts <hi>(viz.)</hi> to Sir <hi>William Hicks,</hi> Sir <hi>Ri<g ref="char:EOLhyphen"/>chard Price, William Walton, Elizabeth Walcot, Fisher Littleton,</hi> and <hi>Robert Mason,</hi> which was intended for satisfaction of the Commissioners; and <hi>Pettyward,</hi> and that Iudgements and Leases which he had granted to those persons, might charge his lands, and avoid sequestrations; which could not be allowed good against the Common<g ref="char:EOLhyphen"/>wealth, for that Sir <hi>Edward Littleton</hi> had made and acknowledged them since <hi>May 1642.</hi>
+            </p>
+            <p>
+               <note place="margin">By the 3<seg rend="sup">d</seg> ad<g ref="char:EOLhyphen"/>ditional Act, all <hi>Littleton's</hi> own estate was sold by the Trustees at <hi>Drury house</hi> to his son &amp; <hi>Rich. Knightly,</hi> with<g ref="char:EOLhyphen"/>out any allow<g ref="char:EOLhyphen"/>ance to the Creditors of <hi>Courten</hi> for their debts.</note>Sir <hi>Edward</hi> being violently prosecuted by severall Creditors that had a power and in<g ref="char:EOLhyphen"/>fluence upon the people in <hi>Northwales,</hi> where he had marryed his second Wife, and set<g ref="char:EOLhyphen"/>led his habitation there, after many sad complaints and attempts against him. He very often importuned Mr. <hi>Carew</hi> to take them off their prosecutions, and to perswade them to accept the security of Mr. <hi>Courtens</hi> lands for the speedy raising of money for their sa<g ref="char:EOLhyphen"/>tisfaction in manner following.</p>
+            <div type="part">
+               <head>A true particular of all the Mannors, Lands and Tenements granted to Sir <hi>Edward Littleton</hi> by Mr. <hi>Courten,</hi> and afterwards granted by Sir <hi>Edward Littleton</hi> to the persons, as follows <hi>(viz.)</hi>
+               </head>
+               <p>
+                  <table>
+                     <row>
+                        <cell>
+                           <p>THE Mannors of <hi>Severn-Stoke, Evesham, Overswell, Bengworth, Stone, Shenstone, Wyerpidle, Hooe,</hi> and all other Lands and Tene<g ref="char:EOLhyphen"/>ments formerly granted to Mr. <hi>Harvey</hi> and Mr. <hi>Rushout</hi> by Mr. <hi>Court<g ref="char:EOLhyphen"/>en</hi> in the Counties of <hi>Worcester</hi> and <hi>Gloucester,</hi> with the appurtenances were granted and conveyed by Sir <hi>Edward Littleton,</hi>
+                              <note place="margin">1653. Inrolled in Chancery, and both deeds were delivered into the hands of <hi>Ric: Knightly</hi> by <hi>George Ca<g ref="char:EOLhyphen"/>rew.</hi>
+                              </note> in consideration of 20 <hi>s.</hi> to <hi>Richard Knightley,</hi> and <hi>Samuel Baldwyn</hi> Esquires, and their heirs for ever by deed of bargain and sale, bearing date, <hi>April</hi> 18. 1653.</p>
+                           <p>And declared by mutuall consent and agreement of the Creditors; and Sir <hi>Edward Littleton</hi> by another writing of the same date, that the other was in trust, and that the land should speedily be sold for the pro<g ref="char:EOLhyphen"/>portionable payment of</p>
+                        </cell>
+                        <cell>
+                           <list>
+                              <item>Sir <hi>Willam Hicke.</hi>
+                              </item>
+                              <item>Sir <hi>Robert Thorold.</hi>
+                              </item>
+                              <item>Sir <hi>David Watkin.</hi>
+                              </item>
+                              <item>Sir <hi>Richard Price.</hi>
+                              </item>
+                              <item>Lady <hi>Vanlore.</hi>
+                              </item>
+                              <item>
+                                 <hi>Fisher Littleton.</hi>
+                              </item>
+                              <item>
+                                 <hi>Jeremy Elwes.</hi>
+                              </item>
+                              <item>
+                                 <hi>Elizabeth Walcot.</hi>
+                              </item>
+                              <item>
+                                 <hi>Anne Whorewood.</hi>
+                              </item>
+                           </list>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <p>The Mannor of <hi>Pyrton, Annton,</hi> and a Messuage in great <hi>Hampton</hi> with their appurtenances, were granted and conveyed by Sir <hi>Edward Littleton</hi> in consideration of 20 s. (charged with Mr. <hi>Carews</hi> Lease) to <hi>John Culpepper</hi> Esquire,<note place="margin">1653. Inrolled in Chancery, and both deeds were delivered into the hands of <hi>Tho: Shenton</hi> by Sir <hi>Edward Littleton</hi> him<g ref="char:EOLhyphen"/>self.</note> and <hi>Thomas Shenton</hi> Gent. and their heires for ever by deed of bargain and sale, bearing date <hi>April</hi> 18. 1653.</p>
+                           <p>And declared by mutuall consent and agreement of the Creditors; and Sir <hi>Edward Littleton</hi> by another writing of the same date, that the other was in trust, and that the Lands should be speedily sold for the proportionable payment of</p>
+                        </cell>
+                        <cell>
+                           <list>
+                              <item>Sir <hi>Robert Ayton.</hi>
+                              </item>
+                              <item>Sir <hi>John Whiteron.</hi>
+                              </item>
+                              <item>
+                                 <hi>William Bagot.</hi>
+                              </item>
+                              <item>
+                                 <hi>Anthony Hibbens.</hi>
+                              </item>
+                              <item>Sir <hi>John Garret.</hi>
+                              </item>
+                              <item>
+                                 <hi>Robert Davis.</hi>
+                              </item>
+                              <item>
+                                 <hi>George Midlemore.</hi>
+                              </item>
+                           </list>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <p>The Mannor of <hi>Lower-Swell</hi> with the appurtenances was granted and conveyed by Sir <hi>Edward Littleton</hi> in consideration of 20 s. to <hi>Ro<g ref="char:EOLhyphen"/>bert Raworth</hi> Esquire,<note place="margin">1653. Inrolled in Chancery, and both deeds de<g ref="char:EOLhyphen"/>livered into Mr. <hi>Abberleys</hi> hands by Sir <hi>Edw: Littleton</hi> himself.</note> and <hi>Thomas</hi> Shenton and their heires for ever, by deed of bargain and sale bearing date <hi>Appil</hi> 18. 1653.</p>
+                           <p>And declared by mutual consent and agreement of the Creditors and Sir <hi>Edward Littleton</hi> by another writing of the same date, that the other was in trust, and that the Land should be speedily sold for the payment of</p>
+                        </cell>
+                        <cell>
+                           <list>
+                              <item>
+                                 <hi>Thomas Abberley.</hi>
+                              </item>
+                              <item>
+                                 <hi>Thomas Smith.</hi>
+                              </item>
+                           </list>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <p>Three small Tenements in <hi>Pyrton</hi> and <hi>Stoke,</hi> with certaine acres of arrable Land, Meadow and Pasture were granted by Sir <hi>Edw: Littleton</hi> in consideration of 5 <hi>s.</hi> to <hi>John Somers</hi> and his heires by lease and re<g ref="char:EOLhyphen"/>lease, bearing date the 16. and 18. of <hi>August,</hi> 1653.</p>
+                           <p>And declared by another writing a trust for payment of</p>
+                        </cell>
+                        <cell>
+                           <list>
+                              <item>
+                                 <hi>Judeth Folliot.</hi>
+                              </item>
+                              <item>
+                                 <hi>William Weaver.</hi>
+                              </item>
+                           </list>
+                        </cell>
+                     </row>
+                  </table>
+               </p>
+               <p>
+                  <hi>These were all the Mannors, Lands and Tenements contained in Sir</hi> Edw: Littletons <hi>deed.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <pb n="5" facs="tcp:206438:5"/>
+               <head>A perfect Accompt of the severall Grants, Convey<g ref="char:EOLhyphen"/>ances, Sales and Contracts made by <hi>Richard Knightly, Samuel Baldwyn, Robert Raworth, John Culpeper, Thomas Shenton,</hi> and <hi>John Somers,</hi> in pursuance of their Trust.</head>
+               <p>
+                  <table>
+                     <row>
+                        <cell>THE Mannor of <hi>Severne Stoke,</hi>
+                           <note place="margin">By deed of bargain &amp; sale inrolled in Chancery, 1654.</note> with other Farms and Lands (mentioned in Mr. <hi>Harveys</hi> grants) sold and conveyed by <hi>Richard Knightley,</hi> and <hi>Samuel Baldwyn,</hi> to the Right Honourable the Lord <hi>Coventry</hi> and his heirs for ever, for the consideration of</cell>
+                        <cell>01200 <hi>l.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>The Mannors of <hi>Overswell, Wyerpīdle; Bengworth, Stone, Shenstone,</hi>
+                           <note place="margin">By deed inrol<g ref="char:EOLhyphen"/>led in Chance<g ref="char:EOLhyphen"/>ry, 1654.</note> and o<g ref="char:EOLhyphen"/>ther lands (mentioned in Mr. <hi>John Rushouts</hi> grant) sold and conveyed by <hi>Ri<g ref="char:EOLhyphen"/>chard Knightly</hi> and <hi>Samuel Baldwin</hi> to <hi>James Rushout, John Casier, William Rushout,</hi> and <hi>Abraham Cullen,</hi> and to the heirs of <hi>James</hi> for ever for the con<g ref="char:EOLhyphen"/>sideration of</cell>
+                        <cell>00450 <hi>l.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>The Messuage in great <hi>Hampton,</hi>
+                           <note place="margin">By deed inrol<g ref="char:EOLhyphen"/>led in Chan<g ref="char:EOLhyphen"/>cery, 1654.</note> with the Lands and Appurtenances there<g ref="char:EOLhyphen"/>unto belonging (formerly let to <hi>John Clarke</hi> for three lives yet in being) sold and conveyed by <hi>John Culpeper</hi> and <hi>Thomas Shenton</hi> to <hi>John Humphries</hi> and his heirs for ever for the consideration of</cell>
+                        <cell>00220 <hi>l.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>Three small Tenements in <hi>Pyrton</hi> and <hi>Stoke,</hi> with the Appurtenances,<note place="margin">The deed to <hi>Rob: Abbot</hi> and <hi>Joh: Prestwood</hi> Inrolled in Chancery, and the other were by leases and releases, 1654.</note> sold and conveyed by <hi>John Somers</hi> by severall deeds to <hi>William Lole, Thomas Ber<g ref="char:EOLhyphen"/>wick, Robert Abbot,</hi> and <hi>John Prestwood</hi> and their heires, for the considerati<g ref="char:EOLhyphen"/>on of</cell>
+                        <cell>00350 <hi>l.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>1655. The Mannor of <hi>Lowerswel</hi> then in the possession of <hi>Giles Carter,</hi> con<g ref="char:EOLhyphen"/>tracted for by Alderman <hi>Will: Gore,</hi> at the rate of 8000 <hi>l.</hi> which was by agree<g ref="char:EOLhyphen"/>ment to be paid to Mr. <hi>Carter,</hi> and the Creditors <hi>(viz.)</hi> 1400 <hi>l.</hi> for the rever<g ref="char:EOLhyphen"/>sion and equity of redemption, and 6600 <hi>l.</hi> for Mr. <hi>Carters</hi> Lease, but was inter<g ref="char:EOLhyphen"/>rupted by Major <hi>Salwey,</hi> who discouraged the Alderman, and told him that the estate belonged to the Common wealth, and was forfeited for Treason by Sir <hi>Edward Littleton,</hi> thereupon the Alderman declined the bargain to the damage of the Creditors 500 <hi>l.</hi> and upwards.</cell>
+                        <cell> </cell>
+                     </row>
+                  </table>
+               </p>
+               <p>Some of the Creditors aforesaid considering their interest in the Mannors of <hi>Pyrton,</hi>
+                  <note place="margin">
+                     <p>130 <hi>l</hi> charged upon the <hi>lands</hi> by judgement of the Com<g ref="char:EOLhyphen"/>mittee at a re<g ref="char:EOLhyphen"/>hearing; the rest reprised by the Credit<g ref="char:EOLhyphen"/>ors just allow<g ref="char:EOLhyphen"/>ance of their debts.</p>
+                     <p>
+                        <hi>Courtens</hi> heire claimed not.</p>
+                  </note>
+                  <hi>Evesham, Annton,</hi> and <hi>Lowerswell</hi>) the clamour of <hi>Littleton's</hi> delinquency; and that the Trustees at <hi>Drury-house</hi> had by the third Additionall Act a retrospect into all sales and grants made by Delinquents since <hi>May, 1642.</hi> The Commissioners of Bankrups title to the lands under <hi>Courten,</hi> and their claime allowed in due time at <hi>Worcester House.</hi> The pretence of Mr. <hi>Courtens</hi> heire, and the other Incumbrances aforesaid, besides severall suits depending at Law by the Commissioners against those that claimed under <hi>Little<g ref="char:EOLhyphen"/>ton's</hi> deed, as fraudulent Acts to avoyd other debts, (did severally contract and agree with persons concerned respectively for such interests and clayms in behalfe of themselves, and the other Creditors aforesaid; As follows <hi>(viz)</hi>
+               </p>
+               <p>In <hi>Mich. Term 1654. Jer: Elwes, Tho: Shenton,</hi> &amp; <hi>Geo: Carew,</hi>
+                  <note place="margin">4200 l. was not given for any right Mr. <hi>Courten</hi> had, but upon pro<g ref="char:EOLhyphen"/>mises he would discover his concealed e<g ref="char:EOLhyphen"/>state, &amp; deli<g ref="char:EOLhyphen"/>ver the books of accompt.</note> after several communi<g ref="char:EOLhyphen"/>cations with the Commiss: that chiefly acted, and <hi>Simon Smith,</hi> and discovering to them the several grants of Sir <hi>Edw: Littleton</hi> for the purposes aforesaid, and that <hi>4200 l.</hi> was agreed to be paid to M. <hi>Knightly</hi> for the maintenance of M. <hi>Courtens</hi> children, &amp; for his joyning in the sale by fine, &amp;c. After many meetings and long debates, the Commiss: drew up a short writing, declaring their trust and their sales, the offer of <hi>2000 l.</hi> by <hi>Jeremy Elwes,</hi> and others aforesaid for the Commissioners interest, and setting forth the chiefe heads of the severall agreements intended to be made; the Commissioners thereupon summoned the major part of the Creditors together, who subscribed the said writing (but with much re<g ref="char:EOLhyphen"/>gret that Mr. <hi>Courten</hi> should have any money out of the estate) And consented that Arti<g ref="char:EOLhyphen"/>cles should be drawn to the purposes following, <hi>(viz.)</hi>
+               </p>
+            </div>
+            <div type="part">
+               <pb n="6" facs="tcp:206438:6"/>
+               <head>
+                  <note place="margin">Dated <hi>Jan:</hi> 18. 1654.</note>The abstract of the Articles between the Commissioners (Sir <hi>Tho<g ref="char:EOLhyphen"/>mas Abdy, John Pettyward,</hi> and other assignees of the Commissioners) on the one part; And Sir <hi>Edward Littleton, John Culpeper,</hi> and <hi>Tho: Shenton</hi> of the other part</head>
+               <p>
+                  <note place="margin">
+                     <hi>Culpeper</hi> and <hi>Shenton</hi> ten<g ref="char:EOLhyphen"/>dred the deeds and the money upon the day, &amp; the Commission<g ref="char:EOLhyphen"/>ers took no<g ref="char:EOLhyphen"/>tice thereof; but in regard the Assignees were not there present to convey, the Commission<g ref="char:EOLhyphen"/>ers, desired them to take back the mo<g ref="char:EOLhyphen"/>ney, untill the Assignees were ready to convey the lands accor<g ref="char:EOLhyphen"/>dingly.</note>REciting in the said Articles; That whereas a Commission under the great Seale grounded upon the Stat: made concerning Bankrupts awarded against the said <hi>W: Courten,</hi> directed to <hi>James Winstanly,</hi> &amp; others aforementioned, <hi>&amp;c.</hi> And whereas the said <hi>Will: Courten</hi> did by his deed of bargain and sale, dated <hi>Apr.</hi> 26. 1642. convey the aforesaid Mannors &amp; premisses to Sir <hi>Edw: Littleton</hi> and his heirs, <hi>&amp;c.</hi> And whereas the said Sir <hi>Ed: Littleton</hi> had granted by several deeds the said Mannors &amp; premisses as aforesaid, <hi>&amp;c.</hi> And whereas the said Commiss: Sir <hi>Tho: Abdy</hi> &amp; the Assignes claimed an interest in the pre<g ref="char:EOLhyphen"/>misses; They the said Commiss: &amp; the Assignees, with the consent of the major part of the Creditors, did by the said Articles covenant and grant to and with the said <hi>Littleton, Cul<g ref="char:EOLhyphen"/>peper,</hi> &amp; <hi>Shenton,</hi> that if they or any of them should pay, or cause to be paid to the said Com<g ref="char:EOLhyphen"/>missioners or their Assignees the sum of 2000 <hi>l.</hi> at any time before the 15 day of <hi>January,</hi> 1655. to and for the use of the Creditors of the said <hi>Will: Courten</hi> that sought relief by the said Commission; That then the said Commissioners, Sir <hi>Thomas Abdy, John Petty<g ref="char:EOLhyphen"/>ward,</hi> and other the Assignes should and would grant and convey unto the said Sir <hi>Edw: Littleton, John Culpeper,</hi> and <hi>Thomas Shenton,</hi> or to such person or persons &amp; their heirs, as they should appoint; All the estate, right, title interest, claime, and demand of them the said Commissioners, Sir <hi>Thomas Abdy, John Pettyward,</hi> and other the Assignees of, in, and to all and singular the Mannors, Lands and Premisses mentioned and contain<g ref="char:EOLhyphen"/>ed in the said Indenture, dated the 26<seg rend="sup">th</seg> of <hi>April,</hi> 1642. made by the said <hi>William Courten,</hi> to the said Sir <hi>Edward Littleton</hi> as aforesaid; which Articles were interchangeably sign<g ref="char:EOLhyphen"/>ed, sealed, and delivered by all the parties accordingly.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <note place="margin">
+                     <hi>Dated</hi> 18 Jan: 1654.</note>The abstract of the Articles between Sir <hi>Edw: Littleton</hi> and <hi>George Carew</hi> of the one part, and <hi>John Pettyward</hi> of the other part</head>
+               <p>REciting; That whereas <hi>Will: Courten</hi> stood indebted to all the persons hereafter expressed in a schedule thereunto annexed, amounting to 32000 <hi>l.</hi> and upwards; And reciting the aforementioned Articles between the Commissioners, Sir <hi>Tho: Abdy, John Pettyward,</hi> and other the Assignees of the one part; And the said <hi>Littleton, Culpeper,</hi> and <hi>Shenton</hi> of the other: And all the clauses and agreements therein contained, It was hereby further covenanted and agreed between the said Sir <hi>Edward Littleton, Carew,</hi> and <hi>Pettyward,</hi> That from the date of the said Articles, none of the Creditors in the Schedule thereunto annexed, shall have or sue for any reliefe, payment, or divident out of any the e<g ref="char:EOLhyphen"/>state whatsoever belonging to the said <hi>William Courten,</hi> otherwise then by sale of the said Mannors and Lands aforesaid.</p>
+               <p>And by the said Articles, It is further agreed between the said Sir <hi>Edward Littleton, Carew,</hi> and <hi>Pettyward,</hi> That the severall Creditors in the Schedule thereunto annexed (except Sir <hi>Robert Thorold,</hi> and <hi>Eusebius Matthews</hi>) shall within three moneths next af<g ref="char:EOLhyphen"/>ter the said Mannors and premisses shall be conveyed by the Commissioners and their Assignees as aforesaid to the said Sir <hi>Edward Littleton, John Culpeper,</hi> and <hi>Thomas Shen<g ref="char:EOLhyphen"/>ton,</hi> or to such as they shall appoint and their heirs, <hi>&amp;c.</hi> deliver up their bonds and other securities of the said <hi>William Courten</hi> to be cancelled, which were interchange<g ref="char:EOLhyphen"/>ably signed, sealed and delivered by all the parties accordingly.</p>
+            </div>
+            <div type="part">
+               <head>The Schedule annexed to the last mentioned Articles, being the Creditors of the said <hi>William Courten</hi> and Sir <hi>Edward Littleton.</hi>
+               </head>
+               <p>
+                  <table>
+                     <row>
+                        <cell>SIr <hi>William Hicks</hi> Baronet</cell>
+                        <cell>01000 <hi>l.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>Sir <hi>David Watkin</hi> Knight</cell>
+                        <cell>01200</cell>
+                     </row>
+                     <row>
+                        <cell>Sir <hi>Peter Vanlore</hi> Knight</cell>
+                        <cell>01800</cell>
+                     </row>
+                     <row>
+                        <cell>Sir <hi>Robert Ayton</hi> Knight</cell>
+                        <cell>04000</cell>
+                     </row>
+                     <row>
+                        <cell>Lady <hi>Mary Vandike</hi>
+                        </cell>
+                        <cell>02000</cell>
+                     </row>
+                     <pb n="7" facs="tcp:206438:6"/>
+                     <row>
+                        <cell>Sir <hi>John Garret</hi> Knight</cell>
+                        <cell>00400</cell>
+                     </row>
+                     <row>
+                        <cell>Lady <hi>Anne Middleton</hi>
+                        </cell>
+                        <cell>00500</cell>
+                     </row>
+                     <row>
+                        <cell>Sir <hi>Robert Thorold</hi> Knight</cell>
+                        <cell>04000</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Eusebius Mathews</hi>
+                        </cell>
+                        <cell>03000</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Thomas Smith</hi>
+                        </cell>
+                        <cell>02000</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Barnard Hide</hi> Esquire</cell>
+                        <cell>01000</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Jeremy Elwes</hi> Esquire</cell>
+                        <cell>01500</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>William Baggot</hi> Esquire</cell>
+                        <cell>01000</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>William Walton</hi> Esquire</cell>
+                        <cell>02000</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Edmond Hamond</hi> Esquire</cell>
+                        <cell>02000</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Robert Davis</hi> Esquire</cell>
+                        <cell>01000</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Fisher Littleton</hi> Gent.</cell>
+                        <cell>00150</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Anthony Weaver,</hi> alias <hi>Hibbens</hi> Merchant</cell>
+                        <cell>01000</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Robert Mason</hi> Gent.</cell>
+                        <cell>00800</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Thomas Gate,</hi> one of the Barons of the Exchequer</cell>
+                        <cell>00200</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Judith Folliot</hi> Spinster</cell>
+                        <cell>00350</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Anne Whorewood</hi> Widow</cell>
+                        <cell>00500</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Elizabeth Walcott</hi> Widow</cell>
+                        <cell>01000</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>32400</cell>
+                     </row>
+                  </table>
+               </p>
+            </div>
+            <div type="part">
+               <head>The Charges and Incumbrances upon the aforesaid Mannors and Lands in the same Schedule contained, were agreed to be paid out of the Purchase money upon sale.</head>
+               <p>
+                  <table>
+                     <row>
+                        <cell>TO Mr. <hi>Courtens</hi> children for his consent and joyning in the sale</cell>
+                        <cell>4200 l.<note place="margin">And for the books of ac<g ref="char:EOLhyphen"/>compt to be delivered.</note>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>To Sir <hi>William Curtius</hi> for his estate in the premisses and arrears</cell>
+                        <cell>1000 l.</cell>
+                     </row>
+                     <row>
+                        <cell>To Mr. <hi>Thomas Coppin</hi> for his estate</cell>
+                        <cell>0650 l.</cell>
+                     </row>
+                     <row>
+                        <cell>To <hi>Humphrey Baker</hi> for his estate</cell>
+                        <cell>0126 l.</cell>
+                     </row>
+                     <row>
+                        <cell>To <hi>Michael Hunt</hi> for his estate</cell>
+                        <cell>0050 l.</cell>
+                     </row>
+                     <row>
+                        <cell>To the Commissioners and Assignees for their claim upon a Composition made with them.</cell>
+                        <cell>2000 l.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>8026 <hi>l.</hi>
+                        </cell>
+                     </row>
+                  </table>
+               </p>
+               <p>Vpon sealing and executing the said Articles, in regard <hi>Jeremy Elwes</hi> was the chiefe instrument in obtaining the agreements with the Commissioners. And that the debt of Sir <hi>Rob: Ayton</hi> belonged to three poor children at <hi>Westminster</hi> related to <hi>George Cotton</hi> Esq who had forborn Sir <hi>Edward Littleton</hi> by Mr. <hi>Carews</hi> means so many years together, and were excluded the benefit of the commission.</p>
+               <p>
+                  <hi>George Carew</hi> by his severall Writings bearing date <hi>January</hi> 17. 1654. Did covenant and agree with <hi>Jeremy Elwes</hi> and <hi>John Ayton</hi> Esquires, that <hi>Elwes</hi> should receive his principal debt, and <hi>Ayton 13 s. 8 d,</hi> in the pound out of the Lands, within the space of twelve moneths after the conveyances thereof should be made by the Commissioners and <hi>Pettyward</hi> to such persons as Sir <hi>Edward Littleton, Culpeper, Shenton</hi> and <hi>Carew</hi> should appoint.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>In pursuance</hi> of all the Covenants and Agreements, Purchasors were found out to buy the Lands in discharge of the Debts, and Incumbrances.</head>
+               <p>
+                  <hi>RIchard Dodeswel</hi> contracts for the Mannor of <hi>Pyrton, Thomas</hi> Lord <hi>Coventry</hi> enters into Articles with <hi>Shenton, May</hi> 28. 1655. and covenants to pay 7500 <hi>l.</hi> for the said Mannor with the Appurtenances to <hi>Shenton</hi> and his Assignes, <hi>Shenton</hi> covenants to
+<pb n="8" facs="tcp:206438:7"/> convey a good estate in Fee-simple to the Lord <hi>Coventry,</hi>
+                  <note place="margin">Lord <hi>Coventry</hi> payed no mo<g ref="char:EOLhyphen"/>ney nor <hi>Shen<g ref="char:EOLhyphen"/>ton</hi> granted any estate.</note> or to whom he shall appoint be<g ref="char:EOLhyphen"/>fore the last day of <hi>November</hi> following; The purchase money by an agreement made then between the Lord <hi>Coventry, Richard Knightly,</hi> and <hi>Richard Dodeswel,</hi> was to be raised, paid and secured in manner following <hi>(viz.)</hi> 4200 <hi>l.</hi> to be left in his hands at interest for the heire, 2500 <hi>l.</hi> Mr. <hi>Knightly</hi> was to raise for him upon his owne and his sons security 800 <hi>l.</hi> onely to be provided by him towards the same.</p>
+               <p>
+                  <hi>Edwin Baldwin</hi> contracts for the Mannor of <hi>Evesham</hi> about the same time, enters into Articles with <hi>Richard Knightly</hi> and <hi>Samuel Baldwin,</hi> covenants to pay 7500 <hi>l.</hi> to <hi>Richard Knightly, Samuel Baldwin,</hi> and their Assignes for the said Mannor with the Appurtenan<g ref="char:EOLhyphen"/>ces, <hi>Knightly</hi> and <hi>Baldwin</hi> covenanted to make a good assurance of the said Mannor to <hi>Ed<g ref="char:EOLhyphen"/>win Baldwin</hi> upon payment of the money before the end of <hi>Mich. Term</hi> 1655.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <note place="margin">The Kings sil<g ref="char:EOLhyphen"/>ver not paid became fruit<g ref="char:EOLhyphen"/>lesse.</note>
+                  <hi>In order</hi> to the conveyances for the Lord <hi>Coventry,</hi> and Mr. <hi>Edwin Baldwin,</hi> Fines were sent over into <hi>Italy</hi> in <hi>July</hi> 1655. to Mr. <hi>Courten</hi> who acknowledged the same, and sealed Coven<g ref="char:EOLhyphen"/>ants to the uses of Purchasors, they were all returned to the hands of Mr. <hi>Moon</hi> a Merchant of <hi>London,</hi> in <hi>Novemb.</hi> follow<g ref="char:EOLhyphen"/>ing, who kept them from filing, untill newes came into <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> that Mr. <hi>Courten</hi> dyed in <hi>Florence</hi> the 20 of <hi>Jan:</hi> 1655.</head>
+               <p>
+                  <note place="margin">Therefore his Honour could not suffer and be damnified as Mr. <hi>Dodes<g ref="char:EOLhyphen"/>wel</hi> lately writ to <hi>Shen<g ref="char:EOLhyphen"/>ton</hi> concern<g ref="char:EOLhyphen"/>ing <hi>Pyrton, May</hi> 23. 1659.</note>
+                  <hi>RIchard Dodeswel</hi> upon the newes of Mr. <hi>Courtens</hi> death came to Mr. <hi>Knightly,</hi> and told him that the Lord <hi>Coventry</hi> would not proceed in his bargain for <hi>Pyrton.</hi> And that the estate was now fallen to Mr. <hi>Courtens</hi> son, and that there was <hi>DIGITƲS DEI</hi> in this Transaction, and so desired Mr. <hi>Knightly</hi> to dispose of the money some o<g ref="char:EOLhyphen"/>ther way that he had provided for the Lord <hi>Coventry</hi> concerning the purchase of <hi>Pyrton.</hi>
+               </p>
+               <p>
+                  <hi>Edwyn Baldwin</hi> upon the same occasion told Mr. <hi>Samuel Baldwin,</hi> that he would not pro<g ref="char:EOLhyphen"/>ceed in his bargain of <hi>Evesham,</hi> and so hath ever since rested satisfied in the businesse, al<g ref="char:EOLhyphen"/>though he had expended <hi>50 l.</hi> and upwards about the premisses,<note place="margin">Major <hi>Salwey</hi> mistook Mr. <hi>Baldwin,</hi> who intended that Mr. <hi>Courtens</hi> children might have the benefit only of the 4200 <hi>l.</hi> which was agreed should be paid if the fines had ta<g ref="char:EOLhyphen"/>ken effect, and the books de<g ref="char:EOLhyphen"/>livered.</note>
+                  <hi>&amp;c.</hi>
+               </p>
+               <p>
+                  <hi>Sam. Baldwin</hi> the next day after that it was commonly reported Mr. <hi>Courten</hi> was dead, told Major <hi>Salwey</hi> that he had an opportunity to serve Mr. <hi>Courtens</hi> children, and that he would perswade Mr. <hi>Carew</hi> to let him have the benefit of the Articles made with the Commissioners of Bankrupt under such conditions as aforesaid, or to the like effect; and thereupon sent a note to Mr. <hi>Carew,</hi> that he should speak to Mr. <hi>Knightly</hi> and Major <hi>Sal<g ref="char:EOLhyphen"/>wey</hi> the next morning.</p>
+               <p>The next day Mr. <hi>Knightly</hi> came to Mr. <hi>Carew's</hi> chamber in <hi>Grayes Inne,</hi> and desired him to speak with Major <hi>Salwey,</hi> and let him see the Articles that were made with the Commissioners of Bankrupt for the Lands. <hi>Carew</hi> went with Mr. <hi>Knightly</hi> to Major <hi>Salweys</hi> lodgings, and left the Articles with him, and a particular of all the Grants made by Sir <hi>Edward Littleton</hi> to the Creditors to peruse and advise concerning them, who promised to return them again the next day; but he left them with Mr. <hi>Dodeswel,</hi> who might also understand by the contents, that the Creditors had contracted for the Commissi<g ref="char:EOLhyphen"/>oners estate,<note place="margin">
+                     <hi>Carew</hi> after<g ref="char:EOLhyphen"/>wards took them away from Master <hi>Dod swels</hi> sonne at Judge <hi>Newdigates</hi> Chamber.</note> and had no other remedy for their debts, yet he refused to deliver the Articles again to <hi>Carew.</hi>
+               </p>
+               <p>Major <hi>Salwey,</hi> Mr. <hi>Knightly,</hi> and Mr. <hi>Dodeswel</hi> the next day addressed themselves to the Commissioners of Bankrupt,<note place="margin">Mistakes inci<g ref="char:EOLhyphen"/>dent to men of this age.</note> and told them that now Mr. <hi>Courten</hi> being dead, the estate taile revived, and was in his Heires, and that Mr. <hi>Carew</hi> had assigned the benefit of the Articles, and his interest therein to them, or one of them, and had appointed them to take the estate out of the Commissioners,<note place="margin">False accusa<g ref="char:EOLhyphen"/>tions then charged upon the Commissi<g ref="char:EOLhyphen"/>oners for bri<g ref="char:EOLhyphen"/>bery.</note> upon payment of <hi>2000 l.</hi> which they had brought to that purpose out of respect to the creditors, although they had no right to the Land: Some of the Commissioners not well acquainted with the Law in that case, nor with their owne Transactions in it, were ready to hearken thereunto; but the major part of them reflecting upon their Articles and former proceedings, desired to see an assignment from Sir <hi>Edward Littleton, Carew, Culpeper</hi> and <hi>Shenton</hi> under their hands, that they might proceed according to their Covenants.</p>
+               <pb n="9" facs="tcp:206438:7"/>
+               <p>Afterwards A Covenant and Agreement was made in Writing, dated the <hi>25</hi> of <hi>Feb. 1655,</hi> between <hi>Richard Knightly</hi> and <hi>Richard Salwey</hi> on the part and behalf of <hi>VVil<g ref="char:EOLhyphen"/>liam Courten</hi> an Infant on the one part, and <hi>Thomas Shenton</hi> on behalf of himself as al<g ref="char:EOLhyphen"/>so of Sir <hi>Edward Littleton</hi> and <hi>John Culpeper,</hi> on the other part,<note place="margin">This Writing was sealed and delivered by all the parties at Mr. <hi>Samuel Baldwins</hi> Chamber in the Temple.</note> that the sum of <hi>2000 l.</hi> shall be paid to the Commissioners of Bankrupt in the Case of <hi>VVilliam Courten</hi> decea<g ref="char:EOLhyphen"/>sed, within a moneth, in relation to Articles made by <hi>Littleton, Culpeper,</hi> and <hi>Shenton</hi> on the one part, and the said Commissioners and others, on the other part, and that the said Mannors and Lands shall be conveyed to themselves or to such per<g ref="char:EOLhyphen"/>sons, and in such manner as the said <hi>Richard Knightly, Richard Salwey,</hi> and <hi>Thomas Shenton,</hi> on the behalf of himself and the said Sir <hi>Edward Littleton</hi> and <hi>John Culpepper</hi> shall nominate and appoint, and it was also agreed by, and between the said parties, that some persons should be indifferently chosen to end all differences concerning the said Mannors and Premises before the end of <hi>Easter</hi> Term next following.</p>
+               <p>
+                  <hi>Richard Knightly</hi> and <hi>Richard Salwey</hi> became joyntly and severally bound to <hi>George Carew</hi> in <hi>2000 l.</hi> Bond,<note place="margin">The Bonds both sealed at Sir <hi>Orlando Bridgmans</hi> Chamber.</note> dated the <hi>10</hi> of <hi>March 1655</hi> to stand to the Award of Sir <hi>Orlando Bridgman</hi> to end all differences between the said <hi>Knightly, Salwey,</hi> and <hi>Carew,</hi> as well on the behalf of Mr. <hi>Courtens</hi> children as of Sir <hi>Edward Littleton,</hi> and such Creditors whose names are mentioned in the Articles dated the <hi>18</hi> of <hi>January 1654,</hi> made or menti<g ref="char:EOLhyphen"/>oned to be made between Sir <hi>Edward Littleton</hi> and <hi>George Carew</hi> of the one part, and <hi>John Pettyward</hi> of the other part: provided the said Award and Determination be put in writing indented under the Hand and Seal of Sir <hi>Orlando Bridgman,</hi> before the <hi>25</hi> of <hi>March</hi> next following: The like Bond <hi>George Carew</hi> sealed to <hi>Mr. Knightly</hi> and <hi>Major Salwey.</hi>
+               </p>
+               <p>
+                  <hi>In pursuance</hi> of the Bonds, Articles, Covenants,<note place="margin">Sir <hi>Orlando</hi> made no Award, but by consent, drew up short notes of his own Considerati<g ref="char:EOLhyphen"/>ons upon the whole matter for an agree<g ref="char:EOLhyphen"/>ment.</note>
+                  <hi>&amp;c. George Carew</hi> gave proposals in writing, and his demands therein, in reference to an agreement, and left Copies of the Articles, and a particular of Sir <hi>Edward Littletons</hi> proceedings and grants with Mr. <hi>Knightly,</hi> Major <hi>Salwey,</hi> and Sir <hi>Orlando Bridgman,</hi> at his chamber in the <hi>Tem<g ref="char:EOLhyphen"/>ple.</hi> Sir <hi>Orlando</hi> thereupon drew up an agreement into certain heads, and delive<g ref="char:EOLhyphen"/>red one part under his own hand-writing, to <hi>George Carew</hi> the <hi>24.</hi> of <hi>March 1655.</hi> without any mention of <hi>Severn-Stoke;</hi> and another of the same unto Mr. <hi>Richard Knightly</hi> and Major <hi>Salwey,</hi> which afterwards were drawn into Articles, as follows.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>An Abstract</hi> of the Articles Indented tripartite, made the 28 of <hi>March,</hi> 1656. between <hi>Richard Knightly</hi> and <hi>Richard Salwey,</hi>
+                  <note place="margin">These 9. Cre<g ref="char:EOLhyphen"/>ditors, Sir <hi>Ed<g ref="char:EOLhyphen"/>ward Littleton</hi> and <hi>Carew</hi> had chiefly under<g ref="char:EOLhyphen"/>taken to satis<g ref="char:EOLhyphen"/>fie and were obliged to it. The rest in<g ref="char:EOLhyphen"/>tended and left for <hi>Knight<g ref="char:EOLhyphen"/>ly, &amp;c.</hi>
+                  </note> for and on the behalf of <hi>William</hi> and <hi>Katherine Courten,</hi> children of <hi>William Courten</hi> deceased, of the first part, <hi>George Carew,</hi> for and on the behalf of himself and of Sir <hi>Edw. Littleton,</hi> Sir <hi>Rob. Thorold,</hi> Sir <hi>Rob. Ayton,</hi> Sir <hi>John Whiteron, Jeremy Elwes, Rob. Davis, Fisher Littleton,</hi> Lady <hi>Mary Vandike,</hi> Lady <hi>Katherine Vanlore, Will. Bagot,</hi> Creditors of <hi>William Courten,</hi> and <hi>John Culpeper</hi> of the second part, and <hi>Tho. Shenton</hi> of the third part.</head>
+               <p>REciting therein, whereas a Commision under the Great Seal of <hi>England,</hi> grounded upon the Statutes made concerning Banckrupts, was awarded against the said <hi>Will: Courten,</hi> directed to <hi>James Winstanley</hi> &amp; others, <hi>&amp;c. <hi>And first that</hi> Richard Knightly</hi> &amp; <hi>Richard Salwey,</hi> do Covenant and Agree to pay to the said Commissioners and <hi>John Pet<g ref="char:EOLhyphen"/>tyward,</hi> the sum of <hi>2000 l.</hi> upon the making such assurances as are hereafter expressed, of the Mannors, Lands, and Hereditaments late of the said <hi>William Courten</hi> to <hi>Chri<g ref="char:EOLhyphen"/>stopher Doddington, Francis Bagshaw</hi> and <hi>Thomas Yates,</hi> and their Heires by the sur<g ref="char:EOLhyphen"/>viving Commissioners, and <hi>John Pettyward,</hi> and <hi>300 l.</hi> to <hi>Geo. Carew.</hi> And in consi<g ref="char:EOLhyphen"/>deration thereof <hi>George Carew</hi> doth Covenant and Grant to and with <hi>Richard Knightly</hi> and <hi>Richard Salwey,</hi> that the surviving Commissioners by themselves and <hi>John Petty<g ref="char:EOLhyphen"/>ward</hi> by himself, shall and will before the <hi>25</hi> of <hi>December</hi> next after the date of the said Articles, by respective Assurances, Convey unto the said <hi>Doddington, Bagshaw</hi> and <hi>Yates,</hi> and their Heires, all the Estate, Right, Title, and Interest of Them the said Commissioners and <hi>Pettyward,</hi> of and to all those Mannors and Lordships of <hi>Pyrton, Evesham</hi> and <hi>Stoke,</hi> with the Appurtenances, unto the said <hi>Doddington, Bagshaw,</hi> and
+<pb n="10" facs="tcp:206438:8"/>
+                  <hi>Yates,</hi> and their Heires, And shall before the said <hi>25</hi> of <hi>December,</hi> by such respective Assurances, Convey unto the said <hi>William Bagot,</hi> and unto <hi>Ben. Lloyde</hi> and their Heirs the Mannor and Lordship of <hi>Annton.</hi>
+               </p>
+               <p>
+                  <hi>And further,</hi> That the said Sir <hi>Edward Littleton</hi> and his Assignes, and other Persons who have any Estate in the said Mannors and Premises, by, from, and under Him, shall respectively before the said <hi>25</hi> of <hi>December,</hi> Convey all their Estate, Right, and Inter<g ref="char:EOLhyphen"/>rest, in and to the said respective Mannors, Lands, and Premises, unto the said <hi>Dod<g ref="char:EOLhyphen"/>dington, Bagshaw, Yates, Bagot,</hi> and <hi>Lloyde,</hi> and their Heires respectively.</p>
+               <p>
+                  <hi>It is therein further Agreed,</hi> That out of the Rents and Profits of <hi>Pyrton</hi> and <hi>Evesham,</hi> after such Conveyance to be made by the Commissioners and <hi>Pettyward,</hi> as aforesaid, there shall in the first place until Sale made thereof be yearly paid <hi>1381.</hi> to <hi>Richard Knightly,</hi> for the Interest of the <hi>2300 l.</hi> to be paid to the Commissioners and <hi>Carew,</hi> as aforesaid, and likewise <hi>100 l. <hi>per ann.</hi>
+                  </hi> for and Towards the Maintenance of <hi>William</hi> and <hi>Katharine Courten.</hi> And that until Sale, the rest of the Profits of the said Mannors of <hi>Pyrton</hi> and <hi>Evesham;</hi> shall be applyed to and for the benefit of the said Cre<g ref="char:EOLhyphen"/>ditors in lieu of Interest.</p>
+               <p>
+                  <note place="margin">The debt of 4000 l. to Sir <hi>Rob. Thorold,</hi> is the Portion of a Gentle<g ref="char:EOLhyphen"/>woman, given by Sir <hi>Francis Ingolsfield,</hi> and left in trust for her in rea<g ref="char:EOLhyphen"/>dy money: which was lent 1642 by Order of <hi>Chancery</hi> to <hi>Courten</hi> upon his Personal security, with the Earl of <hi>Bridgwater,</hi> Sir <hi>Edward Littleton,</hi> and <hi>David Goubard</hi> bound with him, and the debt, Principal and Interest, yet unsatisfied.</note>
+                  <hi>It is further Agreed,</hi> By and between all parties, to the said Articles, that they shall all of them effectually indeavour the absolute Sale of the said Mannors of <hi>Pyrton</hi> and <hi>Evesham</hi> for the best price that can be gotten for the same, and in case the same, or so much thereof shall not be sold within a year after the date of the said Articles, as shall be sufficient to pay, and be applyed to pay the said Creditors and Sir <hi>Edward Littleton</hi> the sum of <hi>5000 l</hi> that then the said Mannors of <hi>Pyrton</hi> and <hi>Evesham,</hi> shall be sold to such Person or Persons, who shall first give <hi>15000 l.</hi> or more, for the whole, or <hi>7500 l.</hi> or more for the Mannor of <hi>Pyrton,</hi> and <hi>7500 l.</hi> or more, for the Man<g ref="char:EOLhyphen"/>nor of <hi>Evesham,</hi> if the said <hi>Richard Knightly</hi> and <hi>Richard Salwey</hi> shall not within one moneth after the end of the said year, pay the said <hi>5000l.</hi> to the said <hi>George Carew,</hi> on the behalf of the said Creditors, and that all Parties shall indeavour to procure good Conveyances to be made to such Purchasors accordingly.</p>
+               <p>
+                  <hi>In the said Articles its further agreed,</hi> by all parties that after <hi>5000 l.</hi> raised by the Sale of the Mannors of <hi>Pyrton</hi> &amp; <hi>Evesham</hi> for the Creditors and <hi>2300 l.</hi> for <hi>Knightly,</hi> which he was to disburse to the Commissioners and <hi>Carew,</hi> that all the residue of the said Purchase money shall be by the said <hi>Richard Knightly,</hi> by the consent of the said <hi>George Carew,</hi> disposed of or otherwise secured, or remain in the respective Purchasors hands, paying reasonable Interest for the same, for, and towards the Maintenance of the children of the said <hi>William Courten,</hi> in the mean time, until some Heir of the said <hi>William Cour<g ref="char:EOLhyphen"/>ten</hi> deceased, being of full Age, shall have confirmed and ratified all such respective Sales, as shall be so made as aforesaid, and shall make or be ready to make any further Assu<g ref="char:EOLhyphen"/>rances of the Premises, to the Puhchasors respectively.</p>
+               <p>
+                  <hi>And further, <hi>George Carew</hi>
+                  </hi> doth Covenant and Grant to and with the said <hi>Richard Knightly</hi> and <hi>Richard Salwey.</hi> that all the said Creditors of the said <hi>VVilliam Courten</hi> herein before mentioned, their Executors or Assignes, upon the payment of the said <hi>5000 l.</hi> shall deliver up their Bonds and other securities for their money, due by the said <hi>Courten,</hi> amounting with Principal and Interest to <hi>20000 l.</hi> and upwards unto the said <hi>Richard Knightly,</hi> to be cancelled, and that the said <hi>George Carew</hi> before the said <hi>25</hi> of <hi>December</hi> next, shall and will procure the said Sir <hi>Edward Littleton</hi> under his hand and seal,<note place="margin">Sir <hi>Edward Littleton</hi> by Deed dated the 21 of <hi>Iuly</hi> 1656 released his claim to the 5000 l.</note> to release all Claim and Demand to the said <hi>5000 l.</hi> or any part thereof, or otherwise there shall be paid to such Person or Persons, as the said Sir <hi>Edward Littleton</hi> shall apppoint <hi>500 l.</hi> part of the said <hi>5000 l.</hi> before mentioned, to be paid to the said Creditors of <hi>VVilliam Courten</hi> deceased.</p>
+               <p>
+                  <hi>And a further Agreement</hi> was made and declared by and between all the said Parties that the Estate to be made by the said <hi>VVilliam Bagot</hi> and <hi>Benjamin Lloyde,</hi> of and in the said Mannor of <hi>Annton</hi> shall be upon this trust, that if the said <hi>Richard Knightly</hi> and <hi>Richard Salwey,</hi> or either of them, shall, or do, before the first day of <hi>April, 1647</hi> pay unto the said <hi>George Carew,</hi> or his Assignes, the sum of <hi>3000 l.</hi> that then the said <hi>VVilliam Bagot</hi> and <hi>Ben. Lloyde</hi> shall convey and assure the said Mannor of <hi>Annton</hi> to such Person or Persons as <hi>Richard Knightly</hi> and <hi>Richard Salwey</hi> should appoint, and
+<pb n="11" facs="tcp:206438:8"/> in case the said <hi>3000 l.</hi> be not paid before the first day of <hi>April,</hi>
+                  <note place="margin">A Clause in<g ref="char:EOLhyphen"/>dorsed upon the back of the Articles that if any of the said Creditors therein menti<g ref="char:EOLhyphen"/>oned, shall Waive the Agreement, that then o<g ref="char:EOLhyphen"/>thers shall be appointed by Sir <hi>Edward Littleton</hi> and <hi>Carew,</hi> to take the benefit thereof upon the same Conditions.</note> that then the said <hi>Ba<g ref="char:EOLhyphen"/>got</hi> and <hi>Lloyde,</hi> shall Convey and Assure the said Mannor of <hi>Annton</hi> absolutely to <hi>George Carew,</hi> or to such as he shall appoint, And in the mean time <hi>Carew</hi> to receive the Profits to his own use; And likewise that the moneyes herein before intended, to or for the children of the said <hi>William Courten,</hi> upon Sale of the Premises, shall not be paid, other then the said <hi>100 l. <hi>per an.</hi>
+                  </hi> as aforesaid, but continue and remaim as a secu<g ref="char:EOLhyphen"/>rity against all Claimes, of or by the Heires of the said <hi>VVilliam Courten,</hi> until some Heir of the said <hi>VVilliam Courten</hi> deceased, of full age, shall have confirmed and executed such further Assurances and Releases unto the said <hi>Bagot, Lloyde,</hi> and their Heires and Assignes, as they shall reasonably require, or that sufficient security shall be given, that such Assurances shall be made when such Heir shall come of Age.</p>
+               <p>
+                  <hi>And Lastly,</hi> It is hereby declared, <hi>&amp;c.</hi> that the sum of <hi>181.</hi> Rent <hi>per annum,</hi> charg<g ref="char:EOLhyphen"/>ed upon part of the Mannor of <hi>Evesham,</hi> Granted to <hi>Humphrey Baker,</hi> for his life, shall remain to him accordingly, and that the Purchasors shall take it chargeable therewith.</p>
+            </div>
+            <div type="part">
+               <head>These Tripartite Articles were signed, sealed, and delivered, by <hi>Ri<g ref="char:EOLhyphen"/>chard Knightly, Geo: Carew,</hi> and <hi>Thomas Shenton,</hi> interchangeably; <hi>Major Salwey</hi> refused to execute them.</head>
+               <p>
+                  <hi>George Carew</hi> the next day after in pursuance of his Covenants and Vndertakings in the said Tripartite Articles,<note place="margin">
+                     <hi>Richard Knightly</hi> and <hi>Richard Sal<g ref="char:EOLhyphen"/>wey</hi> taking no<g ref="char:EOLhyphen"/>tice of <hi>Carews</hi> further en<g ref="char:EOLhyphen"/>gagements, promised on the behalf of the Heir that he should be indempnified, and that they should be <hi>Ho<g ref="char:EOLhyphen"/>norarie,</hi> en<g ref="char:EOLhyphen"/>gagements upon them.</note> not doubting but Mr. <hi>Knightly</hi> and <hi>Major Salway</hi> would perform all and singular the Agreements and Covenants on their part and be<g ref="char:EOLhyphen"/>half, did deliver a Deed of Appointment, dated <hi>26</hi> of <hi>March, 1656</hi> under the hands and Seals of <hi>John Culpeper, Thomas Shenton,</hi> and the said <hi>George Carew,</hi> reciting the several Articles bearing date the <hi>18</hi> of <hi>January 1654.</hi> as aforesaid, and the Covenants contained therein, and that the sum of <hi>2000 l.</hi> is paid and satisfied, by the said <hi>Cul<g ref="char:EOLhyphen"/>peper, Shenton,</hi> and <hi>Carew,</hi> or by their appointment, unto the Commissioners, And do by these presents direct and appoint, that the said Commissioners, by themselves and <hi>John Pettiward</hi> by himself, severally shall Grant, Convey, Confirm, and Release, all their Estate, Right, Title, and Interest, of in and to the said Mannors of <hi>Pyr<g ref="char:EOLhyphen"/>ton, Evesham,</hi> and <hi>Stoke,</hi> in the said <hi>County</hi> of <hi>Worcester</hi> with the Appurtenances, unto <hi>Christopher Doddington, Francis Bagshaw,</hi> and <hi>Thomas Yates,</hi> their Heires and Asignes for ever.</p>
+               <p>And all their Estate, Right, Title and Interest, of, in, and to the said Mannor of <hi>Annton</hi> alias <hi>Aldington</hi> in the said <hi>County</hi> of <hi>Worcester,</hi> with the Appurtenances unto <hi>William Bagot</hi> and <hi>Benjamin Lloyde,</hi> their Heires and Assignes for ever.</p>
+               <p>
+                  <hi>March</hi> the <hi>29<seg rend="sup">th.</seg> 1656.</hi> upon the receipt of the <hi>2000 l.</hi> and the said Deed of Appoint<g ref="char:EOLhyphen"/>ment, The said several Indentures according to the Agreements and Covenants in the Tripartite Articles were Signed, Sealed, and Delivered,<note place="margin">All Inrolled in <hi>Chancery</hi> within six Months.</note> by the said <hi>John Pettyward</hi> and the Commissioners, to the said <hi>Christopher Doddington, Francis Bagshaw,</hi> and <hi>Thomas Yates,</hi> And unto the said <hi>William Bagot</hi> and <hi>Benjamin Lloyde</hi> respective<g ref="char:EOLhyphen"/>ly; all bearing date the said <hi>29th.</hi> of <hi>March, 1656.</hi> in the presence of Mr. <hi>Harrington</hi> one of the Masters in <hi>Chancery,</hi> who took the acknowledgment thereof.</p>
+               <p>
+                  <hi>Afterwards,</hi> several other Deeds of Bargain and Sale,<note place="margin">The Mannor of <hi>Lower Swell,</hi> convey<g ref="char:EOLhyphen"/>ed to <hi>Thomas Shenton,</hi> by the Commissi<g ref="char:EOLhyphen"/>oners and their Assignes respectively. All Inrolled in <hi>Chancery,</hi> 1656.</note> upon the considerations therein mentioned and (upon the like Deed of Appointment, and direction of <hi>Cul<g ref="char:EOLhyphen"/>peper, Shenton</hi> and <hi>Carew</hi>) were executed by Sir <hi>Thomas Abdy,</hi> Dame <hi>Rachel Cambel, James Cambel,</hi> and the Commissioners respectively, to <hi>Thomas Shenton, James Rushout, John Humphries, John Somers,</hi> Purchasors as aforesaid, of, in, and to all, and singular the other Mannors, Lands, Tenements, and Hereditaments, within the said <hi>County</hi> of <hi>Worcester</hi> and <hi>Glocester</hi> contained in Sir <hi>Edward Littletons</hi> Deed aforesaid.</p>
+               <p>
+                  <hi>Richard Knightly</hi> in pursuance of his Covenants in the said Articles perform<g ref="char:EOLhyphen"/>ed some of the said Agreements,<note place="margin">
+                     <hi>Fisher Littleton</hi> gave the bond to Indempnity <hi>Knighty</hi> and <hi>Carew.</hi>
+                  </note> and hath received the Rents of <hi>Pyrton</hi> and <hi>Evesham</hi> for three yeares, and paid himselfe out of the same, <hi>1381.</hi> interest yearly for the money he paid to <hi>Carew</hi> and the Commissioners, <hi>100 l.</hi> yearly for the maintenance of Mr. <hi>Courtens</hi> children, <hi>300 l.</hi> more by agreement to <hi>Carew, 300 l.</hi> to <hi>Fisher Littleton,</hi> and <hi>100 l.</hi> to <hi>William Bagot,</hi> the rest he is accountable for to the Creditors, the sale hath
+<pb n="12" facs="tcp:206438:9"/> been obstructed both by Major <hi>Salwey</hi> and Mr. <hi>Knightly,</hi>
+                  <note place="margin">
+                     <hi>Pyrton</hi> &amp; <hi>Eve<g ref="char:EOLhyphen"/>sham</hi> are valu<g ref="char:EOLhyphen"/>ed at 15000 <hi>l.</hi> and more to be sold, the yearly rents &amp; profits should amount to 800 <hi>l. per an.</hi> aocording to the rates.</note> contrary to their promises and co<g ref="char:EOLhyphen"/>venants; and <hi>Carew</hi> hath been sued by <hi>Ayton</hi> and <hi>Elwes,</hi> and paid <hi>650 l.</hi> to them in part of their debts out of his owne estate, and is daily exclaimed on by them and other creditors, for their moneys due upon the agreements, or interest in the mean time for it, alledging that <hi>Knightly Salwey,</hi> and <hi>Carew</hi> do receive the rents, and divide them amongst them<g ref="char:EOLhyphen"/>selves, or that the Lands are let at an under value, so that no profits may accrue to them towards their wants and necessities.</p>
+               <p>
+                  <hi>George Carew</hi> oftentimes made several applications to Mr. <hi>Knightly,</hi> to pay the <hi>5000 l.</hi> to the Creditors, which he refused, but promised that he would consent to the sale, and endeavour it, and desired <hi>Carew</hi> and the Creditors to finde out Purchasors, and that he would procure conveyances accordingly. <hi>Carew</hi> by severall letters and proposals offered to sale the said Mannors of <hi>Pyrton</hi> and <hi>Evesham</hi> to the Right Honourable, <hi>Thomas</hi> Lord <hi>Coventry</hi> for <hi>15000 l.</hi> upon the termes and conditions in the said tripartite Articles; his Lordship refused the motions, but constantly employed Mr. <hi>Dodeswell</hi> to deale with Mr. <hi>Knightly</hi> about it, who contrary to intents and true meanings raised new doubts and differences that more intangled the businesse.</p>
+               <p>
+                  <note place="margin">Mr. <hi>Knightly</hi> hath bin since very liberal in his promises, which will in due time be more conside<g ref="char:EOLhyphen"/>rable to the creditors then their proporti<g ref="char:EOLhyphen"/>ons out of the Lands as it is said.</note>The Creditors exhibited their Bill in Chancery against <hi>Knightley, Salwey, Bagshaw Yates, Littleton, Carew, Courten, Culpeper</hi> and <hi>Shenton</hi> to be relieved in the premisses against them: <hi>Bagshaw, Yates,</hi> and <hi>Salwey</hi> answered severally, that they claime no inte<g ref="char:EOLhyphen"/>rest or profits out of the Lands but onely their disbursements, and that they were trusted with the Heirs interest: And Major <hi>Salwey</hi> further sayes, that he bought the Commissio<g ref="char:EOLhyphen"/>ners estates for <hi>2000 l.</hi> for Mr. <hi>Courtens</hi> children. <hi>Knightly</hi> sayes he is ready to perform the Articles, but takes advantage of <hi>Carews</hi> Covenant concerning <hi>Severn-Stoke. Shen<g ref="char:EOLhyphen"/>ton</hi> and <hi>Carew</hi> answer, they have performed the Covenants on their part, and do con<g ref="char:EOLhyphen"/>sent to the sale, so as they may be indempnified by the decree of the Court. Sir <hi>Edw:</hi> dyes before he answered. <hi>Doddington</hi> dyed before the Bill was exhibited.</p>
+               <p>
+                  <hi>Robert Raworth</hi> and <hi>Thomas Shenton</hi> by their Deed of Bargain and Sale, bearing date <hi>7 Decemb. 1657.</hi> for the consideration of <hi>1500 l.</hi> convey the Mannor of <hi>Lowerswel,</hi> and the equitable power of redemption unto <hi>Will: Hinson,</hi> otherwise <hi>Powel</hi> of <hi>Pengethly</hi> in the County of <hi>Hereford</hi> Esquire, his Heirs and Assignes for ever.</p>
+               <p>Afterward <hi>William Hinson</hi> by his Deed of Bargain and Sale, bearing date <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> of <hi>May 1658.</hi> for the consideration of <hi>1600 l.</hi> conveyed the said Mannor and Premisses unto <hi>Ro<g ref="char:EOLhyphen"/>bert Atkins</hi> Esq <hi>Robert Atkins</hi> comes to accompt with <hi>Giles Carter,</hi> they agree, <hi>Atkins</hi> payes <hi>Carter</hi> the mortgage money due to him. <hi>Carter</hi> assignes the Lease granted to <hi>Moor</hi> and <hi>Hodges.</hi>
+               </p>
+               <p>
+                  <hi>George Carew</hi> sells the Mannors of <hi>Pyrton</hi> and <hi>Evesham</hi> for <hi>15000 l.</hi> to <hi>William Wil<g ref="char:EOLhyphen"/>loughby</hi> and <hi>John Whitfield</hi> Esqs <hi>Carew</hi> enters into Articles, contracts with them that he will procure good Conveyances according to the agreements and Covenants in the tri<g ref="char:EOLhyphen"/>partite Articles within six moneths,<note place="margin">
+                     <hi>Novemb.</hi> 1658.</note> they covenant to pay the money accordingly; <hi>Wil<g ref="char:EOLhyphen"/>loughby</hi> &amp; <hi>Whitfield</hi> provided the money, and paid part of it: Deeds and Writings were ingrossed, <hi>Carew</hi> sealed; <hi>Knightly, Salwey, Bagshaw</hi> &amp; <hi>Yates</hi> refused to joyn; The Purchasors and Creditors brings actions against <hi>Carew</hi> for damages, <hi>Carew</hi> sues <hi>Knight<g ref="char:EOLhyphen"/>ly.</hi> Afterward <hi>Will: Willoughby, John Whitfield,</hi> and <hi>George Carew</hi> exhibit their Bill in Cancery against <hi>Fr: Bagshaw, Thomas Yates, &amp;c.</hi>
+               </p>
+               <p>Then a pretended Title of the Trustees at <hi>Drury house</hi> was promoted, and a discove<g ref="char:EOLhyphen"/>ry of <hi>6000 l.</hi> damnification due to the Common-wealth was alledged to discourage the Purchasors;<note place="margin">Procured by some persons not out of zeal to the Com<g ref="char:EOLhyphen"/>mon-wealth. Vide Mr <hi>Win<g ref="char:EOLhyphen"/>stanleys</hi> petiti<g ref="char:EOLhyphen"/>on and claim, the report &amp; the order at <hi>Worcester house.</hi> Vide the Or<g ref="char:EOLhyphen"/>ders of allow<g ref="char:EOLhyphen"/>ances, <hi>&amp;c.</hi> up<g ref="char:EOLhyphen"/>on sale of <hi>Lit<g ref="char:EOLhyphen"/>tletons</hi> lands.</note> for that <hi>Littleton</hi> being a Delinquent, and a person within the third additio<g ref="char:EOLhyphen"/>nall Act for sale, had been dampnified so much in his owne estate for Mr. <hi>Courten's</hi> debt (as appeared by his answer in Chancery aforesaid) &amp; that <hi>6000 l.</hi> damage was (by an order of the Committee at <hi>Worcester house</hi> made <hi>1653.</hi>) to be raised out of <hi>Courtens</hi> Lands; which Order lay dorment in Major <hi>Salweys</hi> hands <hi>4</hi> or <hi>5</hi> yeares, and then declared to Purchasors after sale: The order was drawn contrary to the report made by Mr. <hi>Graves</hi> Councell for the Common-wealth upon <hi>James Winstanley's</hi> petition and claime: and it was very well known that at the same time all Sir <hi>Edward Littletons</hi> Estate was sold by the Trustees to <hi>Mr. Knightly,</hi> and Sir <hi>Edward Littletons</hi> sonne, and that the preempti<g ref="char:EOLhyphen"/>on of his Lands was denyed to <hi>Courtens</hi> creditors, and that almost his whole estate was exempted and reprised from sale by such settlement of Sir <hi>Edward Littleton</hi> upon his son in <hi>1643.</hi> after he became bound to <hi>Courten,</hi> which did avoid the creditors, and that there was not any allowance of <hi>Courtens</hi> debt charged upon his Estate in the sale to pre<g ref="char:EOLhyphen"/>judice the Common-wealth in the least.</p>
+            </div>
+            <div type="part">
+               <pb n="13" facs="tcp:206438:9"/>
+               <argument>
+                  <p>
+                     <hi>After much trouble and expences this following Order was obtained upon full Evidence at a hearing before the Commissioners at <hi>Worcester house.</hi>
+                     </hi>
+                  </p>
+               </argument>
+               <head>
+                  <hi>February 16. 1658.</hi> By the Commissioners for removing Obstructions in the Sale of severall Lands and Estates forfeited to the Common-wealth for Treason, appointed to be sold by the Additionall Act.</head>
+               <p>WHereas upon hearing the cause upon the Report of Mr. <hi>Graves,</hi> of Councell for the Common-wealth, made upon the Petition of <hi>James Winstanly,</hi> Esq and others, Com<g ref="char:EOLhyphen"/>missioners upon the Statute of Bankrupts awarded against <hi>William Courten</hi> Esquire, claim<g ref="char:EOLhyphen"/>ing on behalf of the Creditors of the said <hi>Will: Courten,</hi> the Mannors of <hi>Pyrton, Evesham, Annton,</hi> alias <hi>Aldington,</hi> and <hi>Stoke,</hi> alias <hi>Severn-Stoke,</hi> in the County of <hi>Worcester,</hi> and the Mannor of <hi>Ʋpperswell,</hi> and <hi>Netherswell</hi> in the County of <hi>Gloucester,</hi> formerly conveyed by the said <hi>Will: Courten</hi> to Sir <hi>Edward Littleton</hi> Baronet (one of the persons named in the 3d. Act for Sale) for his security against such debts of the said <hi>Wil: Courten</hi> as the said Sir <hi>Edw:</hi> stood engaged for. We did the 21 of <hi>June</hi> 1653. Order, That the said claim should be a security unto the said Sir <hi>Edward Littleton</hi> for so much as he was damnified, for the Debts of the said <hi>William Courten,</hi> for which he the said Sir <hi>Edward</hi> stood engaged with the said <hi>Courten,</hi> and after for the Debts of the Creditors of the said <hi>William Courten</hi> in general, which damnification is in the said Order mentioned to be 6000 <hi>l</hi> And Whereas <hi>Robert Atkins</hi> Esquire, and others, in behalfe of themselves and others, Purchasors (un<g ref="char:EOLhyphen"/>der the Commissioners of Bankrupts) of part of the Estate of the said <hi>William Courten,</hi> pre<g ref="char:EOLhyphen"/>ferred their Petition to us on the 25th. of <hi>June</hi> last,<note place="margin">
+                     <hi>Courtens</hi> Heir claimed not for the saving any right ac<g ref="char:EOLhyphen"/>cording to the Act upon sale, as Sir <hi>Edward Littletons</hi> son did upon sale of his fathers Lands.</note> whereby they prayed to be relieved against the said <hi>ORDER,</hi> alledging, that by reason thereof their Title is much dispara<g ref="char:EOLhyphen"/>ged, and they disturbed; And that the said Sir <hi>Edward Littleton</hi> was not really damnified as in the said <hi>ORDER</hi> is set forth. Upon reading of which PETITION, it was referred to Mr. <hi>Graves</hi> to peruse his former Reports made upon the Claime of the said <hi>James Winstanley</hi> and others, and such other Evidences and Writings as should be produ<g ref="char:EOLhyphen"/>ced, as well for the setting forth the Interest of the Common-Wealth under the said Sir <hi>Edward Littleton's</hi> right, as of the Petitioners in and to the Mannors and Lands aforesaid: And by severall <hi>Orders</hi> since made in this Cause, time was given to the said Trustees for Sale of the said Lands, and to Mr. <hi>Roswell</hi> their Sollicitor, to produce what Evidence and Proofs they could, on behalfe of the Commonwealth for making out the said Damnificati<g ref="char:EOLhyphen"/>on: And now upon hearing the Cause this day, and reading the severall Reports of Mr. <hi>Graves</hi> of Councell for the Common-wealth, and hearing Councell as well for the Com<g ref="char:EOLhyphen"/>mon-vvealth as the now Petitioners, and upon consideration had of the whole matter; For<g ref="char:EOLhyphen"/>asmuch as it appears unto us by the said Reports, That of the Debts of the said <hi>William Courten,</hi> for which the said Sir <hi>Edward Littleton</hi> stood engaged, he was damnified in his owne estate 130 <hi>l.</hi> onely: It is <hi>Ordered,</hi> That the said former Order of the 21 of <hi>June,</hi> 1653. (as to the charging the Lands of the said <hi>William Courten</hi> with the sum of 6000 <hi>l.</hi> for which the said Sir <hi>Edward Littleton</hi> is therein said to be damnified) be hereby revoked and made void: And that the said Mannors and Lands of the said <hi>Will: Courten</hi> do hereby stand charg<g ref="char:EOLhyphen"/>ed only with the sum of 130 <hi>l.</hi> wherein the said Sir <hi>Edward</hi> appears to be damnified by rea<g ref="char:EOLhyphen"/>son of the Debts of the said <hi>William Courten,</hi> for which he stood engaged as aforesaid.</p>
+               <closer>
+                  <signed>
+                     <hi>And that this Order be transmitted to the Trustees for sale of the said Lands, to be by them entred and observed according to the Tenour and purport thereof, and as by the said Act for Sale is directed and appointed</hi> Signed by Sir <hi>Will: Roberts</hi> and the rest of the Commissioners.</signed>
+               </closer>
+               <postscript>
+                  <p>
+                     <hi>THe Order being accordingly transmitted and entred at</hi> Drury-house, Rob: Atkins <hi>&amp;</hi> Geo: Carew <hi>made it their desirs to the Trustees, that they would grant and release their interest to them or such as they should appoint on behalf of the Creditors and Purchasors aforesaid, upon payment of the said</hi> 130 <hi>l. according to the purport of the said Order and Acts of Parl. but they refused to convey, pretending there was a Discoverer in the Case who ought to have the right of pre-emption,</hi>
+                     <note place="margin">
+                        <hi>Ric: Dowdeswel</hi> demanded 500 <hi>l.</hi> of Mr. <hi>Atkins</hi> and <hi>Carew</hi> towards the same.</note>
+                     <hi>and that they were informed by him that the Right of</hi> Courten <hi>and the Common-wealth were both one and the same, and so great sums of money were demanded for a con<g ref="char:EOLhyphen"/>currence in the discharge of the Common-wealths interest in the Lands. Whereupon</hi> Rob: At<g ref="char:EOLhyphen"/>kins <hi>exhibited his Bill this Trinity Term</hi> 1659. <hi>before the Barons of the Excheq; against</hi> Will: Skinner <hi>and the rest of the Trustees, to be relieved in the premisses, and there that Suit depends at present.</hi>
+                  </p>
+               </postscript>
+            </div>
+            <div type="part">
+               <pb n="14" facs="tcp:206438:10"/>
+               <head>An Abstract of the Case; some Arguments raised, some Objections Answered.</head>
+               <argument>
+                  <p>
+                     <hi>William Courten</hi> Tenant in Taile, Bargaines and Sells the Mannors of <hi>Pyrton, Evesham,</hi> and <hi>Annton,</hi> in the County of <hi>Worcester,</hi> to Sir <hi>Edward Littleton,</hi> and his Heires, and then Becomes Bankrupt.</p>
+                  <p>The Question is, Whether there be any Estate left in the Bankrupt grant<g ref="char:EOLhyphen"/>able over to the Creditors, by the Commissioners within the intent of the Statute.</p>
+                  <p>Or whether the Estate Tayle which passed not by the Bargain and Sale, be not preserved by the Law for the Heirs in Tayle.</p>
+                  <p>
+                     <hi>Objection is,</hi>
+                  </p>
+                  <p>That <hi>William Courten,</hi> after the Bargain and Sale to Sir <hi>Edward Littleton</hi> was not seised of any Estate in possession, reversion, or re<g ref="char:EOLhyphen"/>mainder, and that the Commissioners have no power by the Statute to convey the Lands in this Case.</p>
+               </argument>
+               <p>THE Statute of 21 <hi>Jacob. chap.</hi> 19. gives power to the Commissioners, or the greater part of them by Deed Inrolled to Grant, Bargain, Sell, and Convey, any Mannors, Lands, Tenements, or Hereditaments, whereof a Bankrupt is, or shall be in any waies seised of any Estate in Taile, in possession, Reversion, or Remainder, (and whereof no Reversion or Remainder is, or shall be in the Kings Majesty, his Heires or Successors, <hi>of the gift or provision of</hi> his Majesty his Progenitors, his Heirs, or Successors,) to any Person or Persons for the Releife and Bene<g ref="char:EOLhyphen"/>fit of the Creditors of all such Bankrups, And that all, and every such Grants, Bargaines, Sales, and Conveyances, shall be good and avayleable in the Law to such Person or Persons and their Heires, against the said Bankrupts and against all and every the said Issues of the body of such Bankrupts and againsts all and every Person or Persons claiming any Estate, Right, Title, or Interest by, from, or under the said Bankrupts, after such time as such person shall become Bankrupt and against all and every other Person or Persons whatsoever whom the said Bankrupt by Common recovery or other wayes or means might cut off, or de<g ref="char:EOLhyphen"/>bar from any Remainder, Reverssion, Rent, Profit, Title, or possibility into, or out of any the said Mannors, Lands, Tenements, or Herediments.</p>
+               <p>At the <hi>Common Law</hi> before the Statute of <hi>Westminster</hi> the 2d. all Inheritances were in Fee-simple, and were chargeable with Debts, and the Heir of his Ancestor, was charged with his binding Acts, to the value of such Inheritances. The reason of <hi>West.</hi> 2d. was to preserve Ancient Fa<g ref="char:EOLhyphen"/>milies &amp; Inheritances, yet afterwards was found mischievous, by other <hi>Parliaments,</hi> and that it was a hinderance to Commerce, Credit and Trading, the only support of <hi>England.</hi> Therefore by force of the Statute in the 4<seg rend="sup">th.</seg> of <hi>Hen.</hi> 7. <hi>chap.</hi> 24. Tenant in Tayle might lawfully part with his Estate and barre his Issue by Fine, <hi>&amp;c.</hi>
+               </p>
+               <p>A Gift in Tayle with condition that the Donee shall not Levy a Fine, is a void condition, and repugnant to the <hi>Common Law,</hi> see <hi>Mary Portingtons Case,</hi> Three incidents to Estates Tayl, by the Statue 32 <hi>Hen.</hi> 8. <hi>chap.</hi> 28. no condition can take that away from any Estate, that is incident to the Estate.</p>
+               <div type="section">
+                  <head>It is objected on the behalf of Mr. <hi>Courtens</hi> Heir that this is <hi>Casus omissus,</hi> out of the Statute, and that after the Bargain and Sale to Sir <hi>Ed. Littleton,</hi> the Estate Tayle and right of Fee-simple, was in Abeyance, intendment, and consideration of the Law, and was (as <hi>Littl. lib. 3. chap. 11. fol. 145.</hi> and as <hi>Bracton, lib. 1. cap. 12</hi>) called <hi>Haereditatem jacentem,</hi> and that the Estate was in <hi>nubibus</hi> and would drop down by providence to Mr. <hi>Courtens</hi> Children after his death, to avoid the Statute, <hi>&amp;c.</hi>
+                  </head>
+                  <p>TEnant in Tayl holds of him that hath the Reversion in Fee, its reasonable then that debts con<g ref="char:EOLhyphen"/>racted by the Donor before the uses raised, should be paid by the Donee: and most just that Debts
+<pb n="15" facs="tcp:206438:10"/> contracted by the Tenant in Tail, should be paid by him having the use, credit, and seisin, of the Lands.</p>
+                  <p>Marriages are accounted by the Law sufficient considerations to raise Vses to the Issue, al<g ref="char:EOLhyphen"/>though there be no Portions answerable to such Estates, but Estates Tayl of Merchants and their Issue, are barred after they have committed any acts of Bankruptcy, and their whole Inheritances become forfeited to their Creditors, and the reason of the Law is for that Merchants do extend their credits beyond their Lands and visible Estates, in Trading (which a private Gentleman cannot do) and have many waies by fraudulent acts to delay and defeat their Creditors, as in an Exchange time Merchants have taken up great sums of money, and within one hour after have lodged the same in <hi>Turky,</hi> or <hi>Spain,</hi> far beyond the reach of Creditors. <hi>Ex Malis Moribus bonae leges.</hi>
+                  </p>
+                  <p>The words of the Statute are that the Commissioners Grant of any Mannors, Lands and He<g ref="char:EOLhyphen"/>reditaments of a Bankrupt shall be good against the Issue of the Bankrupt (admit <hi>Little<g ref="char:EOLhyphen"/>tons</hi> Deed good, and <hi>Courten</hi> had sold him the Lands for a valuable consideration of money paid, and not as this case is, to secure him against such debts, to such Creditors who seek to be re<g ref="char:EOLhyphen"/>leived against those individual Lands by force of the Statute) yet <hi>Courten</hi> having not barred his Issue by Fine, there remained an <hi>Hereditament</hi> in him,<note place="margin">☜</note> (which word signifies all that is the in<g ref="char:EOLhyphen"/>heritance) and an Estate Tayl, is so Estate of Inheritance, and would descend to his Heirs af<g ref="char:EOLhyphen"/>ter the death of <hi>Courten,</hi> and the Statute saies that the Commissioners Grant shall bar all per<g ref="char:EOLhyphen"/>sons whatsoever whom the Bankrupt by Fine or common Recovery might cut off and bar from any Title or Possibility, into, or out of the said Lands and <hi>Hereditaments;</hi> And <hi>Courtens</hi> Issue might claim after his death, and <hi>Courten</hi> might bar his Issue by Fine, so that his Issue cannot, after the Commissioners Grant, lawfully demand any of the Bankrupts Inheritance.</p>
+                  <p>It is not necessary that a Banckrupt be seised at the time when he become a Bankrupt but having been once seised and not destroyed and barred the whole Estate before he become Bankrupt, that part which remaineth not barred, remaineth to the Commissioners, to Sell within the intent of the Statute, or else the Statute would serve for little or no use, for every one might keep his Land Intayled, and Bargain and Sell it, and the Bankrupts son after the death of his Father might be a rich man upon the purse of Creditors, which is expresly contra<g ref="char:EOLhyphen"/>ry to the intent of the Statute; and the Statutes are to be accounted, and construed liberally for the benefit of Creditors.</p>
+               </div>
+            </div>
+            <div type="part">
+               <pb n="16" facs="tcp:206438:11"/>
+               <head>TEN QUERIES, To be further resolved upon the whole CASE.</head>
+               <p n="1">
+                  <hi>I. Q.</hi> WHether Mr. <hi>Courtens</hi> Deed Inrolled <hi>26. April, 1642.</hi> is not fraudu<g ref="char:EOLhyphen"/>lent, as in the like Cases have been adjudged, <hi>vid. Twines</hi> Case <hi>Mich. 44. Eliz.</hi> and many others.</p>
+               <p n="2">
+                  <hi>II. Q.</hi> Who are the Haires, Executors, and Assignes of <hi>Courten,</hi> which have the Equity of Redemption in <hi>Courtens</hi> Mortgaged Lands, upon payment of the <hi>130 l.</hi> Damnification of Sir <hi>Edward Littleton.</hi>
+               </p>
+               <p n="3">
+                  <hi>III. Q.</hi> Whether Sir <hi>Edward Littletons</hi> Son or Mr. <hi>Courtens</hi> Son claim any thing by Descent, or by Purchase, from, and under their Ancestors, And the consi<g ref="char:EOLhyphen"/>derations how, and when, and what Interest Mr. <hi>Courtens</hi> Heir hath in Law or Equity to his Fathers Estate upon any pretence whatsoever.</p>
+               <p n="4">
+                  <hi>IV. Q.</hi> Whether Sir <hi>Edward Littletons</hi> Heir can be impeached for his Fathers Debt, or the Common-wealth be Intitled to a further Damnification for Sir <hi>Ed: Littletons</hi> Delinquency, since his Estate sold by the Trustees, or since his decease.</p>
+               <p n="5">
+                  <hi>V. Q.</hi> Wherein Mr. <hi>Knightly</hi> or <hi>Major Salwey</hi> are Damnified, if the <hi>2300 l.</hi> be paid with Interest to them again. And if <hi>Bagshaw</hi> and <hi>Yates</hi> should convey the Estate to the Creditors being Mr. <hi>Knightly</hi> paid not the <hi>5000 l.</hi> nor performed his other promises to <hi>Carew</hi> and the Creditors and let the Heir sell his Right to the best advantage, <hi>tantum valet quantum valere potest,</hi> and keep the old Deeds and Bonds and the intayl by him to look on</p>
+               <p n="6">
+                  <hi>VI. Q.</hi> Whether Mr. <hi>Courtens</hi> Children, if they have a Right, ought to take <hi>4200 l.</hi> for it? or if they have not a right, whether they ought to receive a penny out of those Lands their Father sold for three hundred years purchase to Creditors?</p>
+               <p n="7">
+                  <hi>VII. Q.</hi> Whether Mr. <hi>Courten,</hi> Sir <hi>Edward Littleton,</hi> and the Earl of <hi>Bridgewater,</hi> were not Tenants in Tayl, and had a sufficient power in themselves to sell their Lands to pay the Debt? and how farre they made use of that power, and their goodwill to the Creditors, who lent their money up<g ref="char:EOLhyphen"/>on the reputation of their Worth, Honours and Lands?</p>
+               <p n="8">
+                  <hi>VIII. Q.</hi> What is that Interest of the Heir, which Mr. <hi>Bagshaw</hi> and Mr. <hi>Yates</hi> (by their answer to the Creditors Bill) say they were trusted withall in the Conveyances from the Commissioners and <hi>Pettiward?</hi> Whether it be <hi>jus in re</hi> or <hi>jus ad rem</hi> and if there be no right or demand in Law belonging to the Heir, whether it be not a defrauding of Creditors, to imploy the Lands other<g ref="char:EOLhyphen"/>wise then to their advantage.</p>
+               <p n="9">
+                  <hi>IX. Q.</hi> Whether the Trustees at <hi>Drury House</hi> ought to take any thing out of <hi>Courtens</hi> Estate from the poor Creditors? or that they ought not to release their pretence to the Creditors, and observe the final Judgement and Determinati<g ref="char:EOLhyphen"/>on of the Committee at <hi>Worcester House.</hi> According to an Act of <hi>Parliament?</hi>
+               </p>
+               <p n="10">
+                  <hi>X. Q.</hi> What Estate passed by Sir <hi>Edward Littletons</hi> Grant of <hi>Pyrton, Ann<g ref="char:EOLhyphen"/>ton</hi> and <hi>Evesham,</hi> the Joynture Lands by his Lease and release to <hi>Courten</hi> made upon his request, and his Lady, for the consideration of <hi>20. s.</hi> dated the <hi>10.</hi> and <hi>11.</hi> of <hi>July 1651.</hi> how far those Grants did operate▪ <hi>&amp;c.</hi>
+                  <note place="margin">☞</note>
+                  <hi>Vide</hi> the Letters from <hi>Courten</hi> and his Lady, and <hi>Littletons</hi> Deeds regranted to <hi>Courten.</hi>
+               </p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="epilogue">
+            <pb facs="tcp:206438:11"/>
+            <head>EPILOGUE.</head>
+            <p>I Suppose I have not Added any thing impertinent, or Omitted any thing materiall in the stating of this perplext Case, but am much troubled at severall occasions given me to publish the Ingratitudes and Neglects of such Persons that are singular and wise in their owne eyes,<note place="margin">4200 l. was intended for the fine, books of accompt, and old deeds as a <hi>quid pro quo,</hi> a satisfa<g ref="char:EOLhyphen"/>ction for the money.</note> and have brought the Hopes and Expecta<g ref="char:EOLhyphen"/>tions of Mr. <hi>Courtens</hi> Children to nothing. I had a great regard for them, until I met with such a Generation of men, so litigious, that rather opened the LAVV upon doubts, then resolved doubts upon the LAVV: And (as Lord St. <hi>Alban</hi> that incomparable Sophy says) like Emperique States-men, ignorant of natural Philosophy, govern without rule, and destroy mutuall Societies for want of Learning and Knowledg. <hi>Man,</hi> that is the measure of all things, and hath Reason given him to discern between Good and Evill, must needs offend against the law of his Understanding and Judgement, who denies the truth which justifies it self at all times. I <hi>honour</hi> the Law of <hi>England,</hi> and shall ever advance it as the only maintainer of Right. <hi>Kings</hi> were Servants and Subjects to the Law they governed by,<note place="margin">Fr. Sylv. in orat. pro Mil.</note> States-men ought to be the same— <hi>Jus permaneat semper nec unquam mutetur, lex vero scripta saepius.</hi> I must speak a word or two in defence and justification of some persons deceased, who were concerned in this case (<hi>viz.</hi> Mr. <hi>George Cotton,</hi> Mr. <hi>Anthony Boys,</hi> two of the Com<g ref="char:EOLhyphen"/>missioners, and <hi>Charles Carswell</hi> their Sollicitor) those that are living may answer for themselves: It is reported I gave the Commissioners 200 <hi>l.</hi> for a bribe to betray their trust, which is altogether false and scandalous. I do not deny but that I gave 200 <hi>l.</hi> upon the Agree<g ref="char:EOLhyphen"/>ment made with the Commissioners and the Creditors, 50 <hi>l.</hi> where<g ref="char:EOLhyphen"/>of was paid unto <hi>Simon Smith</hi> to discharge meetings that would be occasioned for the conclusion of the Premisses; 20 <hi>l.</hi> to <hi>Charles Cares<g ref="char:EOLhyphen"/>well</hi> for his travell and charge to Sir <hi>Thomas Abdy, John Pettyward,</hi> and the other Assignees, 5 <hi>l.</hi> to <hi>Simon Smith</hi> for expedition; and 125 <hi>l.</hi> to <hi>George Cotton</hi> and <hi>Anthony Boys</hi> for all their fees and paines after the said Agreement: And for the Articles, Deeds, and many other Wri<g ref="char:EOLhyphen"/>tings that concerned the same, I found that they were chiefly intru<g ref="char:EOLhyphen"/>sted, and were men very able for their parts, and upright in all their practices and dealings, therefore ought to rest quiet in their Graves free from such aspersions. When I reflect upon the Case, the proceedings therein, and those other persons concerned with them in the same Commission, I wonder they can be silent at
+<pb facs="tcp:206438:12"/> such rumors,<note place="margin">
+                  <list>
+                     <item>Iames Win<g ref="char:EOLhyphen"/>stanly.</item>
+                     <item>Tho: Bayls.</item>
+                  </list>
+               </note> being men of honour and cleer reputations, Ben<g ref="char:EOLhyphen"/>chers, and learned in the Law, who passed all things under their hands and seales with the said <hi>Cotton</hi> and <hi>Boys</hi> in the whole transa<g ref="char:EOLhyphen"/>ction of this affair.</p>
+            <p>
+               <hi>As</hi> for Major <hi>Salwey,</hi> and Mr. <hi>Knightly</hi> (in my esteem they are) per<g ref="char:EOLhyphen"/>sons of so much religion, justice, honour and integrity, that, being once convinced of some mistakes in their owne judgements and o<g ref="char:EOLhyphen"/>pinions concerning the Proceedings and the Law in this case, they will then be passive, and take no hold of any seeming advantages, to inrich some by the ruines of others.</p>
+            <p>As for Mr. <hi>Courtens</hi> Children, I am not a little grieved there is so much discovered,<note place="margin">Post est occasio ca<gap reason="illegible" resp="#uom" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>va.</note> that they must at last suffer by the forgetfulnesse of their friends (as an addition to their other mis-fortunes) and now be left to the charity of their Relations that might lately by an expedient offered have prevented their losses sustained herein.</p>
+            <p>As for Mr. <hi>Culpeper</hi> and Mr. <hi>Shenton</hi> (to my knowledge) they de<g ref="char:EOLhyphen"/>sire no other advantage in the premises, then to discharge their con<g ref="char:EOLhyphen"/>sciences in the trust, and be indempnified against suits, with reason<g ref="char:EOLhyphen"/>able allowance for their charges and trouble.</p>
+            <p>As for my selfe, (I blush for those that are not ashamed of them<g ref="char:EOLhyphen"/>selves, and have abused the world.) I suffer also by the indigent Cre<g ref="char:EOLhyphen"/>ditors that received their dividend out of the 2000 <hi>l.</hi> paid for the Commissioners title,<note place="margin">Excluded from any benefit of the Kings debt, <hi>Barbados,</hi> Dutch dama<g ref="char:EOLhyphen"/>ges, and other of Mr. <hi>Courtens</hi> estate, valued at 150000 l. <hi>Vigilantibus &amp; non dormi<g ref="char:EOLhyphen"/>entibus subve<g ref="char:EOLhyphen"/>munt jura.</hi>
+               </note> who consider not that the Creditors nomi<g ref="char:EOLhyphen"/>nated in this case had no other or further relief for their debts, then out of the Lands and premisses as aforesaid) I can do no lesse, then to let the world know I made it not my designe to gain 5000 <hi>l.</hi> as the discontented and ungrateful Creditors do report. I will say no more, but refer all to the particulars in the case, and leave the rest to their better considerations, and doubt not but they and all men will hold me excused in this, and have for the future a more charitable opinion of me.</p>
+            <closer>
+               <signed>GEORGE CAREW.</signed>
+               <dateline>
+                  <hi>Grayes Inne,</hi>
+                  <date>June 3<seg rend="sup">d.</seg> 1659.</date>
+               </dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
